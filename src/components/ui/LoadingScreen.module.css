@@ -1,0 +1,78 @@
+.screen {
+  position: fixed;
+  inset: 0;
+  background: linear-gradient(135deg, var(--pastel-pink-bg), var(--pastel-blue-bg), var(--pastel-mint-bg));
+  background-size: 300% 300%;
+  animation: gradient-shift 8s ease infinite;
+  z-index: 9999;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+}
+
+@keyframes gradient-shift {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+.logo {
+  width: 80px;
+  height: 80px;
+  background: linear-gradient(135deg, var(--pastel-pink), var(--pastel-purple));
+  border-radius: var(--radius-xl);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: var(--shadow-lg);
+  animation: float 2s ease-in-out infinite;
+  position: relative;
+}
+
+.logo::before {
+  content: '';
+  position: absolute;
+  top: 8px;
+  left: 14px;
+  width: 14px;
+  height: 14px;
+  background: rgba(255, 255, 255, 0.4);
+  border-radius: 50%;
+}
+
+.text {
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+}
+
+.bar {
+  width: 200px;
+  height: 8px;
+  background: var(--bg-card);
+  border-radius: var(--radius-full);
+  overflow: hidden;
+  box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.06);
+}
+
+.fill {
+  height: 100%;
+  background: linear-gradient(90deg, var(--pastel-pink), var(--pastel-purple), var(--pastel-blue));
+  background-size: 200% 100%;
+  border-radius: var(--radius-full);
+  animation: loading 1.5s ease-in-out infinite, shimmer 2s linear infinite;
+}
+
+@keyframes loading {
+  0% {
+    width: 0;
+  }
+  50% {
+    width: 70%;
+  }
+  100% {
+    width: 100%;
+  }
+}

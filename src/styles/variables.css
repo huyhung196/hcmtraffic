@@ -1,0 +1,96 @@
+:root {
+  /* Background Colors - Light & Airy */
+  --bg-primary: #ffffff;
+  --bg-secondary: #f8fafc;
+  --bg-tertiary: #f1f5f9;
+  --bg-card: #ffffff;
+  --bg-hover: #fdf2f8;
+
+  /* Pastel Accent Colors */
+  --pastel-pink: #f472b6;
+  --pastel-pink-light: #fbcfe8;
+  --pastel-pink-bg: #fdf2f8;
+
+  --pastel-blue: #60a5fa;
+  --pastel-blue-light: #bfdbfe;
+  --pastel-blue-bg: #eff6ff;
+
+  --pastel-mint: #34d399;
+  --pastel-mint-light: #a7f3d0;
+  --pastel-mint-bg: #ecfdf5;
+
+  --pastel-purple: #a78bfa;
+  --pastel-purple-light: #ddd6fe;
+  --pastel-purple-bg: #f5f3ff;
+
+  --pastel-peach: #fb923c;
+  --pastel-peach-light: #fed7aa;
+  --pastel-peach-bg: #fff7ed;
+
+  /* Primary Brand Color */
+  --primary: #ec4899;
+  --primary-light: #f9a8d4;
+  --primary-dark: #db2777;
+
+  /* Border Colors */
+  --border-light: #e2e8f0;
+  --border-medium: #cbd5e1;
+  --border-focus: var(--primary);
+
+  /* Text Colors */
+  --text-primary: #1e293b;
+  --text-secondary: #475569;
+  --text-muted: #94a3b8;
+  --text-inverse: #ffffff;
+
+  /* Status Colors */
+  --success: #10b981;
+  --success-bg: #d1fae5;
+  --warning: #f59e0b;
+  --warning-bg: #fef3c7;
+  --error: #ef4444;
+  --error-bg: #fee2e2;
+  --live: #22c55e;
+
+  /* Layout - BIGGER */
+  --sidebar-width: 420px;
+
+  /* Border Radius */
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+  --radius-xl: 20px;
+  --radius-full: 9999px;
+
+  /* Shadows */
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.08);
+  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.1);
+  --shadow-lg: 0 8px 30px rgba(0, 0, 0, 0.12);
+  --shadow-card: 0 2px 8px rgba(0, 0, 0, 0.06);
+  --shadow-popup: 0 20px 50px rgba(0, 0, 0, 0.15);
+
+  /* Transitions */
+  --transition-fast: 150ms ease;
+  --transition-normal: 200ms ease;
+  --transition-slow: 300ms ease;
+
+  /* Z-Index Scale */
+  --z-base: 0;
+  --z-dropdown: 100;
+  --z-sticky: 200;
+  --z-overlay: 300;
+  --z-modal: 400;
+  --z-toast: 500;
+}
+
+@media (max-width: 1024px) {
+  :root {
+    --sidebar-width: 380px;
+  }
+}
+
+@media (max-width: 768px) {
+  :root {
+    --sidebar-width: 100vw;
+  }
+}

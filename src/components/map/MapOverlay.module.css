@@ -1,0 +1,97 @@
+.overlay {
+  position: absolute;
+  top: 16px;
+  left: 16px;
+  right: 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  z-index: var(--z-dropdown);
+  pointer-events: none;
+}
+
+.overlay > * {
+  pointer-events: auto;
+}
+
+.statusBar {
+  background: var(--bg-card);
+  border: 1px solid var(--border-light);
+  border-radius: var(--radius-xl);
+  padding: 12px 20px;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  box-shadow: var(--shadow-card);
+}
+
+.statusItem {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.8rem;
+}
+
+.statusDot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, var(--pastel-mint), var(--success));
+  animation: pulse-soft 2s ease-in-out infinite;
+  box-shadow: 0 0 8px var(--pastel-mint);
+}
+
+.statusLabel {
+  color: var(--text-muted);
+}
+
+.statusValue {
+  color: var(--text-primary);
+  font-weight: 600;
+}
+
+.actions {
+  display: flex;
+  gap: 8px;
+}
+
+.gridBtn {
+  position: relative;
+}
+
+.badge {
+  position: absolute;
+  top: -6px;
+  right: -6px;
+  min-width: 20px;
+  height: 20px;
+  padding: 0 6px;
+  background: linear-gradient(135deg, var(--pastel-peach), var(--warning));
+  border-radius: var(--radius-full);
+  font-size: 0.65rem;
+  font-weight: 700;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: var(--shadow-sm);
+  animation: bounce-in 0.4s ease;
+}
+
+@media (max-width: 1024px) {
+  .statusBar {
+    display: none;
+  }
+}
+
+@media (max-width: 768px) {
+  .overlay {
+    top: 12px;
+    left: 12px;
+    right: 12px;
+  }
+
+  .actions {
+    margin-left: auto;
+  }
+}

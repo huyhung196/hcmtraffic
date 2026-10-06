@@ -1,0 +1,131 @@
+.map {
+  width: 100%;
+  height: 100%;
+}
+
+/* Camera Marker */
+.marker {
+  position: relative;
+  width: 36px;
+  height: 36px;
+}
+
+.dot {
+  width: 36px;
+  height: 36px;
+  background: linear-gradient(135deg, var(--pastel-pink) 0%, var(--primary) 100%);
+  border: 4px solid white;
+  border-radius: 50%;
+  box-shadow: 0 4px 15px rgba(236, 72, 153, 0.4);
+  position: relative;
+  transition: all var(--transition-fast);
+}
+
+.dot::before {
+  content: '';
+  position: absolute;
+  inset: -8px;
+  border: 3px solid var(--pastel-pink-light);
+  border-radius: 50%;
+  opacity: 0.6;
+  animation: pulse-ring 2s ease-out infinite;
+}
+
+@keyframes pulse-ring {
+  0% { transform: scale(1); opacity: 0.6; }
+  100% { transform: scale(1.5); opacity: 0; }
+}
+
+.dot::after {
+  content: '';
+  position: absolute;
+  top: 6px;
+  left: 8px;
+  width: 8px;
+  height: 8px;
+  background: rgba(255, 255, 255, 0.7);
+  border-radius: 50%;
+}
+
+.dot.live {
+  background: linear-gradient(135deg, var(--pastel-mint) 0%, var(--success) 100%);
+  box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);
+}
+
+.dot.live::before {
+  border-color: var(--pastel-mint-light);
+}
+
+/* FOV Cone */
+.fov {
+  position: absolute;
+  width: 120px;
+  height: 120px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  pointer-events: none;
+}
+
+.fov::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 0;
+  height: 0;
+  border-left: 45px solid transparent;
+  border-right: 45px solid transparent;
+  border-bottom: 90px solid rgba(244, 114, 182, 0.15);
+  transform-origin: center bottom;
+  transform: translate(-50%, -100%);
+}
+
+/* Cluster Marker */
+.cluster {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 52px;
+  height: 52px;
+  background: linear-gradient(135deg, var(--pastel-pink) 0%, var(--primary) 100%);
+  border: 4px solid white;
+  border-radius: 50%;
+  box-shadow: 0 6px 20px rgba(236, 72, 153, 0.35);
+  position: relative;
+}
+
+.cluster::before {
+  content: '';
+  position: absolute;
+  inset: -6px;
+  border: 3px solid var(--pastel-pink-light);
+  border-radius: 50%;
+  opacity: 0.5;
+  animation: pulse-ring 2s ease-out infinite;
+}
+
+.cluster span {
+  font-weight: 800;
+  font-size: 1rem;
+  color: white;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+.cluster.medium {
+  width: 60px;
+  height: 60px;
+}
+
+.cluster.medium span {
+  font-size: 1.1rem;
+}
+
+.cluster.large {
+  width: 72px;
+  height: 72px;
+}
+
+.cluster.large span {
+  font-size: 1.25rem;
+}
