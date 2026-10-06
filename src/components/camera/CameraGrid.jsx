@@ -19,6 +19,7 @@ export default function CameraGrid({ isOpen, onClose }) {
 
   const refreshAll = useCallback(() => {
     document.querySelectorAll(`.${styles.cellImage} img`).forEach((img) => {
+      delete img.dataset.fallbackUsed
       img.src = addTimestampToUrl(getCameraImageUrl(img.dataset.source))
     })
   }, [])
@@ -91,8 +92,16 @@ export default function CameraGrid({ isOpen, onClose }) {
                   <img
                     src={addTimestampToUrl(getCameraImageUrl(cam.SnapshotUrl))}
                     data-source={cam.SnapshotUrl}
+                    data-fallback={cam.FallbackSnapshotUrl || ''}
                     alt={cam.CamName}
                     referrerPolicy="no-referrer"
+                    onError={(e) => {
+                      const fallback = e.currentTarget.dataset.fallback
+                      if (fallback && !e.currentTarget.dataset.fallbackUsed) {
+                        e.currentTarget.dataset.fallbackUsed = 'true'
+                        e.currentTarget.src = addTimestampToUrl(fallback)
+                      }
+                    }}
                   />
                 </div>
               </div>

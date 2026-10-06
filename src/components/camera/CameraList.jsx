@@ -63,10 +63,18 @@ const CameraItem = memo(function CameraItem({
       <div className={styles.thumb}>
         <img
           src={getCameraImageUrl(camera.SnapshotUrl)}
+          data-fallback={camera.FallbackSnapshotUrl || ''}
           alt=""
           referrerPolicy="no-referrer"
           loading="lazy"
-          onError={(e) => (e.target.style.display = 'none')}
+          onError={(e) => {
+            const fallback = e.currentTarget.dataset.fallback
+            if (fallback && e.currentTarget.src !== fallback) {
+              e.currentTarget.src = fallback
+              return
+            }
+            e.currentTarget.style.display = 'none'
+          }}
         />
       </div>
       <div className={styles.info}>

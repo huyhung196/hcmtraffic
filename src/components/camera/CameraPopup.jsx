@@ -14,8 +14,16 @@ export default function CameraPopup({ camera, onFullscreen }) {
   const [imgSrc, setImgSrc] = useState(getCameraImageUrl(camera.SnapshotUrl))
   const [loading, setLoading] = useState(true)
   const [progress, setProgress] = useState(0)
+  const [usingFallback, setUsingFallback] = useState(false)
 
   const bookmarked = isBookmarked(camera.CamId)
+
+  useEffect(() => {
+    setLoading(true)
+    setUsingFallback(false)
+    setImgSrc(getCameraImageUrl(camera.SnapshotUrl))
+    setProgress(0)
+  }, [camera.CamId, camera.SnapshotUrl])
 
   // Auto refresh countdown
   useInterval(() => {
@@ -30,6 +38,7 @@ export default function CameraPopup({ camera, onFullscreen }) {
 
   const refreshImage = useCallback(() => {
     setLoading(true)
+    setUsingFallback(false)
     setImgSrc(addTimestampToUrl(getCameraImageUrl(camera.SnapshotUrl)))
     setProgress(0)
   }, [camera.SnapshotUrl])
@@ -71,7 +80,14 @@ export default function CameraPopup({ camera, onFullscreen }) {
           alt={camera.CamName}
           referrerPolicy="no-referrer"
           onLoad={() => setLoading(false)}
-          onError={() => setLoading(false)}
+          onError={() => {
+            if (camera.FallbackSnapshotUrl && !usingFallback) {
+              setUsingFallback(true)
+              setImgSrc(addTimestampToUrl(camera.FallbackSnapshotUrl))
+              return
+            }
+            setLoading(false)
+          }}
         />
         <div className={styles.progressBar} style={{ width: `${progress}%` }} />
       </div>

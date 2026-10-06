@@ -321,10 +321,11 @@ export default function App() {
           <div style="background: #f1f5f9; padding: 4px;">
             <img
               src="${getCameraImageUrl(camera.SnapshotUrl)}"
+              data-fallback="${camera.FallbackSnapshotUrl || ''}"
               alt="${camera.CamName}"
               referrerpolicy="no-referrer"
               style="width: 100%; height: 200px; object-fit: cover; display: block;"
-              onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';"
+              onerror="if (this.dataset.fallback && !this.dataset.fallbackUsed) { this.dataset.fallbackUsed='true'; this.src=this.dataset.fallback; } else { this.style.display='none'; this.nextElementSibling.style.display='flex'; }"
             />
             <div style="display: none; height: 200px; align-items: center; justify-content: center; color: #94a3b8; font-size: 14px;">
               Không tải được hình ảnh

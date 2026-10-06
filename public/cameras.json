@@ -9,7 +9,8 @@
     "Lng": 106.691054105759,
     "Code": "TTH 406",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/f387df9b403ecab8d5/image"
   },
   {
     "CamId": "5a6065c58576340017d06615",
@@ -34,7 +35,8 @@
     "Lng": 106.713809967041,
     "Code": "TTH 300",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/38f8a25335ec4cb145/image"
   },
   {
     "CamId": "662b7ce71afb9c00172dc676",
@@ -46,7 +48,8 @@
     "Lng": 106.691064834595,
     "Code": "TTH 374",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/b4451c4f3318dde71c/image"
   },
   {
     "CamId": "583f969161cfea0012cf68f7",
@@ -59,7 +62,8 @@
     "Angle": 300,
     "Code": "TTH 22.7",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/24992bf053569897dd/image"
   },
   {
     "CamId": "59ca317602eb490011a0a408",
@@ -72,7 +76,8 @@
     "Angle": 330,
     "Code": "IDICO-QL1 29",
     "CamType": "tth",
-    "VideoStreaming": true
+    "VideoStreaming": true,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/af0d2a268a7f9ae2a0/image"
   },
   {
     "CamId": "6623e8da6f998a001b2524a6",
@@ -84,7 +89,8 @@
     "Lng": 106.684530973434,
     "Code": "TTH 273",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/2b4dccd1a090cd382d/image"
   },
   {
     "CamId": "56de42f611f398ec0c481299",
@@ -97,7 +103,8 @@
     "Angle": 255,
     "Code": "TTH 18.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/54d696a920795db986/image"
   },
   {
     "CamId": "66b1c426779f74001867415e",
@@ -109,7 +116,8 @@
     "Lng": 106.715161800385,
     "Code": "TTH 419",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/418d04d463a5c58da5/image"
   },
   {
     "CamId": "595dc29c3dcfc400106f2894",
@@ -121,7 +129,8 @@
     "Lng": 106.686397790909,
     "Code": "TTH 21.59",
     "CamType": "tth",
-    "VideoStreaming": true
+    "VideoStreaming": true,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/00b27e691533ec638e/image"
   },
   {
     "CamId": "6623f1046f998a001b2527db",
@@ -133,7 +142,8 @@
     "Lng": 106.636122465134,
     "Code": "TTH 292",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/19dc4ac77526d3354e/image"
   },
   {
     "CamId": "5d9de4de766c880017188cbb",
@@ -158,7 +168,8 @@
     "Lng": 106.765716075897,
     "Code": "TTH 299.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/6a2394a42d6b754274/image"
   },
   {
     "CamId": "662a881a1afb9c00172d2559",
@@ -170,7 +181,8 @@
     "Lng": 106.61497592926,
     "Code": "TTH 308",
     "CamType": "tth",
-    "VideoStreaming": true
+    "VideoStreaming": true,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/b21b36d66e9ca589cf/image"
   },
   {
     "CamId": "5a605f828576340017d06608",
@@ -183,7 +195,8 @@
     "Angle": 180,
     "Code": "TTH 24.4",
     "CamType": "tth_axis",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/f597c4def8afef744b/image"
   },
   {
     "CamId": "6818833d6dfb4b0018f8ee9d",
@@ -220,7 +233,8 @@
     "Lng": 106.658009290695,
     "Code": "TTH 335",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/65871cd5b9b29a139a/image"
   },
   {
     "CamId": "5deb576d1dc17d7c5515ad15",
@@ -232,7 +246,8 @@
     "Lng": 106.704602,
     "Code": "ITS 8.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/82bdaf7855f85f7807/image"
   },
   {
     "CamId": "5b8b2323ca057700116405d0",
@@ -244,7 +259,8 @@
     "Lng": 106.664902567863,
     "Code": "TTH 29.4",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/e8a049ea7514415bd0/image"
   },
   {
     "CamId": "68188a226dfb4b0018f8f70a",
@@ -257,7 +273,8 @@
     "Angle": 255,
     "Code": "TTH 442",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/cb65ed044ff12c87fa/image"
   },
   {
     "CamId": "681889a96dfb4b0018f8f67e",
@@ -281,7 +298,8 @@
     "Lng": 106.670830249786,
     "Code": "TTH 197",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/a5ff185a40e082f95c/image"
   },
   {
     "CamId": "587ee0ecb807da0011e33d50",
@@ -294,7 +312,8 @@
     "Angle": 15,
     "Code": "TTH 44.4",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/dc918e478be5db7978/image"
   },
   {
     "CamId": "56de42f611f398ec0c48128f",
@@ -307,7 +326,8 @@
     "Angle": 75,
     "Code": "TTH 11.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/195c88831d94c58200/image"
   },
   {
     "CamId": "56de42f611f398ec0c4812a2",
@@ -320,7 +340,8 @@
     "Angle": 270,
     "Code": "TTH 22.4",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/ad0e8be2e81042be95/image"
   },
   {
     "CamId": "6922934b44912200174bc7ec",
@@ -357,7 +378,8 @@
     "Lng": 106.737660169601,
     "Code": "TTH 245",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/8e15a126e5fa73fbb3/image"
   },
   {
     "CamId": "58df4d95dc195800111e04b9",
@@ -370,7 +392,8 @@
     "Angle": 60,
     "Code": "TTH 26.4",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/063065d98c06cefe96/image"
   },
   {
     "CamId": "586e28a0f9fab7001111b0b3",
@@ -383,7 +406,8 @@
     "Angle": 120,
     "Code": "TTH 21.3",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/061c5ea9d003446859/image"
   },
   {
     "CamId": "595dd8463dcfc400106f28b2",
@@ -396,7 +420,8 @@
     "Angle": 75,
     "Code": "TTH 21.69",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/f57175d8576f48e4e2/image"
   },
   {
     "CamId": "5d8cd4ee766c880017188946",
@@ -409,7 +434,8 @@
     "Angle": 120,
     "Code": "TTH 145",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/e2e84cfdb96635d97d/image"
   },
   {
     "CamId": "662b81721afb9c00172dcc44",
@@ -421,7 +447,8 @@
     "Lng": 106.696075201035,
     "Code": "TTH 385",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/819b26219790fc961d/image"
   },
   {
     "CamId": "67e217c43215f90017863bc8",
@@ -434,7 +461,8 @@
     "Angle": 120,
     "Code": "TTH 22.6.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/2f39d13110062fe3ee/image"
   },
   {
     "CamId": "66b1c3c2779f740018674125",
@@ -459,7 +487,8 @@
     "Angle": 45,
     "Code": "TTH 124.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/b2e7d023e9fbf3d82a/image"
   },
   {
     "CamId": "56de42f611f398ec0c481297",
@@ -472,7 +501,8 @@
     "Angle": 270,
     "Code": "TTH 13.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/183de1b479d91ce9eb/image"
   },
   {
     "CamId": "5822adbbedeb6c0012a2d65f",
@@ -485,7 +515,8 @@
     "Angle": 270,
     "Code": "TTH 10.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/d0eef231c981754f96/image"
   },
   {
     "CamId": "5deb576d1dc17d7c5515ad00",
@@ -509,7 +540,8 @@
     "Lng": 106.690624952316,
     "Code": "TTH 259",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/041ea86a286552d6a6/image"
   },
   {
     "CamId": "5a823e425058170011f6eaa4",
@@ -522,7 +554,8 @@
     "Angle": 45,
     "Code": "TTH 102.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/99db0d2a8ef512c1b0/image"
   },
   {
     "CamId": "649da72ca6068200171a6dbb",
@@ -534,7 +567,8 @@
     "Lng": 106.70635342598,
     "Code": "TTH 247",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/c0cf92ba2bebae50e7/image"
   },
   {
     "CamId": "5a6088218576340017d06693",
@@ -547,7 +581,8 @@
     "Angle": 345,
     "Code": "IDICO-QL1 36",
     "CamType": "tth",
-    "VideoStreaming": true
+    "VideoStreaming": true,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/137664f6466193ee87/image"
   },
   {
     "CamId": "63b65fd8bfd3d90017eaa461",
@@ -559,7 +594,8 @@
     "Lng": 106.696085929871,
     "Code": "TTH 237",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/c774b773b4509c50d7/image"
   },
   {
     "CamId": "5deb576d1dc17d7c5515ad08",
@@ -571,7 +607,8 @@
     "Lng": 106.637651324272,
     "Code": "ITS 6.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/68bc25072c79715493/image"
   },
   {
     "CamId": "595dc70d3dcfc400106f289a",
@@ -609,7 +646,8 @@
     "Lng": 106.71642780304,
     "Code": "TTH 233.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/3b543c9d43d2e2a0ed/image"
   },
   {
     "CamId": "5874769eb807da0011e33cec",
@@ -622,7 +660,8 @@
     "Angle": 345,
     "Code": "TTH 38.3",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/cd820730adc3c53ab6/image"
   },
   {
     "CamId": "63b660f8bfd3d90017eaa4ea",
@@ -634,7 +673,8 @@
     "Lng": 106.723862886429,
     "Code": "TTH 242.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/1f40821c8f3275162c/image"
   },
   {
     "CamId": "595dd6093dcfc400106f28ad",
@@ -646,7 +686,8 @@
     "Lng": 106.663513183594,
     "Code": "TTH 21.67",
     "CamType": "streaming",
-    "VideoStreaming": true
+    "VideoStreaming": true,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/37485be76b04136463/image"
   },
   {
     "CamId": "58af994abd82540010390c37",
@@ -659,7 +700,8 @@
     "Angle": 195,
     "Code": "TTH 36.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/3f2c95919bca4bc7c4/image"
   },
   {
     "CamId": "56df8108c062921100c143db",
@@ -684,7 +726,8 @@
     "Lng": 106.636669635773,
     "Code": "TTH 191",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/3058e631958e46d1da/image"
   },
   {
     "CamId": "63ae7727bfd3d90017e8f14a",
@@ -696,7 +739,8 @@
     "Lng": 106.703719496727,
     "Code": "TTH 186.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/c29f6250a4d1680160/image"
   },
   {
     "CamId": "6623f36e6f998a001b252878",
@@ -708,7 +752,8 @@
     "Lng": 106.762282848358,
     "Code": "TTH 297.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/fcf81b219528fb2c8f/image"
   },
   {
     "CamId": "5d9ddec9766c880017188c9c",
@@ -721,7 +766,8 @@
     "Angle": 345,
     "Code": "TTH 173",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/ee0ed612e043a42435/image"
   },
   {
     "CamId": "5deb576d1dc17d7c5515ad02",
@@ -733,7 +779,8 @@
     "Lng": 106.691552996635,
     "Code": "ITS 3.4",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/37b43f7184dbbbf499/image"
   },
   {
     "CamId": "681885ff6dfb4b0018f8f1ee",
@@ -758,7 +805,8 @@
     "Lng": 106.6664904356,
     "Code": "TTH 195",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/23317fcd98bc18062f/image"
   },
   {
     "CamId": "5d8cd7fb766c880017188954",
@@ -771,7 +819,8 @@
     "Angle": 60,
     "Code": "TTH 152",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/7fee719f447e5e193e/image"
   },
   {
     "CamId": "56de42f611f398ec0c481293",
@@ -784,7 +833,8 @@
     "Angle": 75,
     "Code": "TTH 14.1",
     "CamType": "tth",
-    "VideoStreaming": true
+    "VideoStreaming": true,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/c79c90e6c39d760889/image"
   },
   {
     "CamId": "63b66089bfd3d90017eaa4bd",
@@ -796,7 +846,8 @@
     "Lng": 106.695753335953,
     "Code": "TTH 241",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/61d3d1686d9d8d9a2e/image"
   },
   {
     "CamId": "63ae798abfd3d90017e8f255",
@@ -808,7 +859,8 @@
     "Lng": 106.664623618126,
     "Code": "TTH 194",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/4964cc9b793311b14d/image"
   },
   {
     "CamId": "662a89f51afb9c00172d26ef",
@@ -820,7 +872,8 @@
     "Lng": 106.634652614593,
     "Code": "TTH 314.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/861ec237aacb66c271/image"
   },
   {
     "CamId": "6318287ec9eae60017a19f36",
@@ -833,7 +886,8 @@
     "Angle": 285,
     "Code": "TTH 176.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/ac4e009ff39159e447/image"
   },
   {
     "CamId": "6792f3058c5ed4001b27f58e",
@@ -858,7 +912,8 @@
     "Angle": 270,
     "Code": "TTH 38.4",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/ee53c4e5bad568871f/image"
   },
   {
     "CamId": "597bf277faa7ea0011c7c29f",
@@ -871,7 +926,8 @@
     "Angle": 225,
     "Code": "TTH 99",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/efeb19a2a033f71054/image"
   },
   {
     "CamId": "5d9de49d766c880017188cb9",
@@ -884,7 +940,8 @@
     "Angle": 75,
     "Code": "TTH 1.7",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/9952d965c5e5cc64a0/image"
   },
   {
     "CamId": "5d9ddf49766c880017188ca0",
@@ -896,7 +953,8 @@
     "Lng": 106.712324023247,
     "Code": "TTH 175",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/c74ee9ee7b481a7a6a/image"
   },
   {
     "CamId": "63ae763bbfd3d90017e8f0c4",
@@ -908,7 +966,8 @@
     "Lng": 106.678780317307,
     "Code": "TTH 182",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/dce4970fda84195fc9/image"
   },
   {
     "CamId": "5d8cda6a766c880017188960",
@@ -921,7 +980,8 @@
     "Angle": 240,
     "Code": "TTH 158",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/17ce729e6bd7be8eff/image"
   },
   {
     "CamId": "662b80e81afb9c00172dcbec",
@@ -933,7 +993,8 @@
     "Lng": 106.690050959587,
     "Code": "TTH 383",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/455e33179c49926ee5/image"
   },
   {
     "CamId": "681826506dfb4b0018f83e64",
@@ -959,7 +1020,8 @@
     "Angle": 330,
     "Code": "TTH 24.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/cc165eb34ee02982d4/image"
   },
   {
     "CamId": "662a86a11afb9c00172d2410",
@@ -971,7 +1033,8 @@
     "Lng": 106.65856719017,
     "Code": "TTH 304",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/eb9565a182d16ffacb/image"
   },
   {
     "CamId": "5a6083198576340017d0667a",
@@ -997,7 +1060,8 @@
     "Angle": 180,
     "Code": "TTH 9.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/3e0435ada83487b80a/image"
   },
   {
     "CamId": "58e49ff8d9d6200011e0b9d4",
@@ -1010,7 +1074,8 @@
     "Angle": 105,
     "Code": "TTH 35.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/c5c03c18fa9b5cf89f/image"
   },
   {
     "CamId": "6922924644912200174bc737",
@@ -1047,7 +1112,8 @@
     "Angle": 135,
     "Code": "TTH 102.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/d5cc494392962bb0d2/image"
   },
   {
     "CamId": "65e054fb6b18080018db6632",
@@ -1059,7 +1125,8 @@
     "Lng": 106.701187491417,
     "Code": "TTH 250",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/928c165c2aee4817e9/image"
   },
   {
     "CamId": "5a825ded5058170011f6ead7",
@@ -1072,7 +1139,8 @@
     "Angle": 345,
     "Code": "TTH 118.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/ea46bf3c0d7553a5d2/image"
   },
   {
     "CamId": "5d8cdb0a766c880017188964",
@@ -1085,7 +1153,8 @@
     "Angle": 90,
     "Code": "TTH 160",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/6d8ecf07acf35bc663/image"
   },
   {
     "CamId": "68188bb96dfb4b0018f8fdbf",
@@ -1111,7 +1180,8 @@
     "Angle": 270,
     "Code": "TTH 25.2",
     "CamType": "tth_axis",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/87443f6852c8879927/image"
   },
   {
     "CamId": "5a6082698576340017d06678",
@@ -1124,7 +1194,8 @@
     "Angle": 15,
     "Code": "IDICO-QL1 16",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/c2729e033939ce35fe/image"
   },
   {
     "CamId": "6792efe48c5ed4001b27f336",
@@ -1148,7 +1219,8 @@
     "Lng": 106.775082349777,
     "Code": "TTH 231.3",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/b7d384e0f0bcdfef79/image"
   },
   {
     "CamId": "662a873b1afb9c00172d2483",
@@ -1160,7 +1232,8 @@
     "Lng": 106.581823825836,
     "Code": "TTH 305.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/35c8dceb4fca1de666/image"
   },
   {
     "CamId": "66b1c3fa779f740018674146",
@@ -1172,7 +1245,8 @@
     "Lng": 106.723707318306,
     "Code": "TTH 418",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/4a4d332111650c7e9b/image"
   },
   {
     "CamId": "5ad0621c98d8fc001102e268",
@@ -1185,7 +1259,8 @@
     "Angle": 300,
     "Code": "TTH 101.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/5a1ef073a699ffb4fd/image"
   },
   {
     "CamId": "66b1c34d779f74001867409e",
@@ -1197,7 +1272,8 @@
     "Lng": 106.666828393936,
     "Code": "TTH 414",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/f33ec810e110a716ab/image"
   },
   {
     "CamId": "595f89323dcfc400106f28ee",
@@ -1210,7 +1286,8 @@
     "Angle": 60,
     "Code": "TTH 21.77",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/312b44435f4a348593/image"
   },
   {
     "CamId": "56de42f611f398ec0c48128c",
@@ -1223,7 +1300,8 @@
     "Angle": 285,
     "Code": "TTH 9.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/b13fee4fe1f7a0a986/image"
   },
   {
     "CamId": "662b558c1afb9c00172d8ed2",
@@ -1235,7 +1313,8 @@
     "Lng": 106.663491725922,
     "Code": "TTH 354",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/0dd197087375298773/image"
   },
   {
     "CamId": "6623f4836f998a001b2528bf",
@@ -1247,7 +1326,8 @@
     "Lng": 106.765801906586,
     "Code": "TTH 299.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/73164e6e94feec5bc5/image"
   },
   {
     "CamId": "662b85bf1afb9c00172dd149",
@@ -1259,7 +1339,8 @@
     "Lng": 106.701128482819,
     "Code": "TTH 401",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/cac44dadab2a5fc5b0/image"
   },
   {
     "CamId": "595d98fc3dcfc400106f287b",
@@ -1272,7 +1353,8 @@
     "Angle": 255,
     "Code": "TTH 21.52",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/fc98b0f75de800c722/image"
   },
   {
     "CamId": "63b3c274bfd3d90017e9ab93",
@@ -1284,7 +1366,8 @@
     "Lng": 106.662520766258,
     "Code": "TTH 10a",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/5fdd74dcfd4abd1582/image"
   },
   {
     "CamId": "6818887f6dfb4b0018f8f54c",
@@ -1308,7 +1391,8 @@
     "Lng": 106.718090772629,
     "Code": "TTH 222",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/e131d6c8860b7a5b2c/image"
   },
   {
     "CamId": "68eddd0a230ee50017d040b2",
@@ -1346,7 +1430,8 @@
     "Angle": 75,
     "Code": "TTH 15.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/8235d50d2dd3da2639/image"
   },
   {
     "CamId": "692291f044912200174bc703",
@@ -1371,7 +1456,8 @@
     "Lng": 106.693907976151,
     "Code": "TTH 386",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/d53f070d9aff61e097/image"
   },
   {
     "CamId": "63ae7b3cbfd3d90017e8f34d",
@@ -1395,7 +1481,8 @@
     "Lng": 106.701568365097,
     "Code": "TTH 176.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/ac4e009ff39159e447/image"
   },
   {
     "CamId": "5deb576d1dc17d7c5515acf6",
@@ -1407,7 +1494,8 @@
     "Lng": 106.681205,
     "Code": "ITS 1.4-1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/3ba6ff559484cee940/image"
   },
   {
     "CamId": "58746488b807da0011e33cd7",
@@ -1420,7 +1508,8 @@
     "Angle": 60,
     "Code": "TTH 21.10",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/e7ac74f6cfcc553421/image"
   },
   {
     "CamId": "662b83381afb9c00172dcf88",
@@ -1432,7 +1521,8 @@
     "Lng": 106.695957183838,
     "Code": "TTH 392",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/78280dbe037ddc84f9/image"
   },
   {
     "CamId": "5822b5ededeb6c0012a2d66a",
@@ -1445,7 +1535,8 @@
     "Angle": 45,
     "Code": "TTH 5.1",
     "CamType": "tth",
-    "VideoStreaming": true
+    "VideoStreaming": true,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/0cbb75812a65eabdbb/image"
   },
   {
     "CamId": "63b660d8bfd3d90017eaa4d5",
@@ -1457,7 +1548,8 @@
     "Lng": 106.723691225052,
     "Code": "TTH 242.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/30b6bca882749ecf5e/image"
   },
   {
     "CamId": "63ae7be0bfd3d90017e8f3a8",
@@ -1469,7 +1561,8 @@
     "Lng": 106.657199263573,
     "Code": "TTH 201.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/790805a43012db5f8d/image"
   },
   {
     "CamId": "63b54a04bfd3d90017ea783e",
@@ -1481,7 +1574,8 @@
     "Lng": 106.813673973084,
     "Code": "TTH 216",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/f1fab957c7a798c4b6/image"
   },
   {
     "CamId": "63b54f70bfd3d90017ea7c86",
@@ -1493,7 +1587,8 @@
     "Lng": 106.726276874542,
     "Code": "TTH 49.10",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/5b02d1fc0d892169a3/image"
   },
   {
     "CamId": "5a8267fe5058170011f6eae1",
@@ -1506,7 +1601,8 @@
     "Angle": 15,
     "Code": "TTH 123.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/dcfcc5a9ce709cf56a/image"
   },
   {
     "CamId": "595d984b3dcfc400106f2879",
@@ -1519,7 +1615,8 @@
     "Angle": 60,
     "Code": "TTH 21.51",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/fc98b0f75de800c722/image"
   },
   {
     "CamId": "58746122b807da0011e33cc5",
@@ -1532,7 +1629,8 @@
     "Angle": 90,
     "Code": "TTH 21.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/adfb9b27e669c3a9dd/image"
   },
   {
     "CamId": "5b25a268f13cba001124e713",
@@ -1569,7 +1667,8 @@
     "Lng": 106.701278686523,
     "Code": "TTH 183.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/e970285540eb37a76b/image"
   },
   {
     "CamId": "6818884f6dfb4b0018f8f50f",
@@ -1594,7 +1693,8 @@
     "Lng": 106.633536815643,
     "Code": "TTH 314.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/af636d0996634f6352/image"
   },
   {
     "CamId": "63b54a70bfd3d90017ea7862",
@@ -1606,7 +1706,8 @@
     "Lng": 106.804490089417,
     "Code": "TTH 218",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/200e21f2ccb9d2d9d5/image"
   },
   {
     "CamId": "58e49783d9d6200011e0b9ce",
@@ -1631,7 +1732,8 @@
     "Lng": 106.693342,
     "Code": "ITS 7.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/940d33ae29c52fa710/image"
   },
   {
     "CamId": "6623ef776f998a001b252768",
@@ -1643,7 +1745,8 @@
     "Lng": 106.602745056152,
     "Code": "TTH 287",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/bd732be547018d4762/image"
   },
   {
     "CamId": "58d7bbf2c1e33c00112b3216",
@@ -1656,7 +1759,8 @@
     "Angle": 225,
     "Code": "TTH 21.46",
     "CamType": "tth",
-    "VideoStreaming": true
+    "VideoStreaming": true,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/75d126823b2e65e226/image"
   },
   {
     "CamId": "662b51d21afb9c00172d89bf",
@@ -1668,7 +1772,8 @@
     "Lng": 106.610255241394,
     "Code": "TTH 348",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/2a1292b9d38f5c55c9/image"
   },
   {
     "CamId": "58746295b807da0011e33ccb",
@@ -1681,7 +1786,8 @@
     "Angle": 285,
     "Code": "TTH 21.5",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/76792067bebfb7ce46/image"
   },
   {
     "CamId": "585b2baec3f96200127dc508",
@@ -1694,7 +1800,8 @@
     "Angle": 285,
     "Code": "TTH 37.4",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/132b3c7cd9cb61f455/image"
   },
   {
     "CamId": "5a606cd08576340017d06628",
@@ -1719,7 +1826,8 @@
     "Lng": 106.686580181122,
     "Code": "TTH 380",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/05ac754b65b04ce1cc/image"
   },
   {
     "CamId": "589d0bceb3bf7600110283d6",
@@ -1732,7 +1840,8 @@
     "Angle": 75,
     "Code": "TTH 49.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/0c684fb854fba09a6b/image"
   },
   {
     "CamId": "5d8cd253766c88001718893a",
@@ -1758,7 +1867,8 @@
     "Angle": 225,
     "Code": "TTH 44.1",
     "CamType": "tth",
-    "VideoStreaming": true
+    "VideoStreaming": true,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/448e7d035c28554b36/image"
   },
   {
     "CamId": "662b5bc31afb9c00172d92e2",
@@ -1770,7 +1880,8 @@
     "Lng": 106.615083217621,
     "Code": "TTH 370",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/360bc7d3fed0a3db50/image"
   },
   {
     "CamId": "662b58401afb9c00172d90f5",
@@ -1782,7 +1893,8 @@
     "Lng": 106.661823391914,
     "Code": "TTH 360",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/def15c7ce4bfb342a3/image"
   },
   {
     "CamId": "5874644cb807da0011e33cd5",
@@ -1795,7 +1907,8 @@
     "Angle": 105,
     "Code": "TTH 21.9",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/3b18c2bc47dc1d4679/image"
   },
   {
     "CamId": "662b867b1afb9c00172dd250",
@@ -1807,7 +1920,8 @@
     "Lng": 106.696676015854,
     "Code": "TTH 405",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/b129c8be3ee4f788af/image"
   },
   {
     "CamId": "597bf0b8faa7ea0011c7c293",
@@ -1820,7 +1934,8 @@
     "Angle": 180,
     "Code": "TTH 98",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/192a512c741b5be64c/image"
   },
   {
     "CamId": "5a10c79f02eb490011a0b0dd",
@@ -1832,7 +1947,8 @@
     "Lng": 106.716717481613,
     "Code": "TTH 59.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/e17775847643c50a87/image"
   },
   {
     "CamId": "68188af96dfb4b0018f8f8e4",
@@ -1856,7 +1972,8 @@
     "Lng": 106.698188781738,
     "Code": "TTH 394",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/723129ca88cf906d40/image"
   },
   {
     "CamId": "5deb576d1dc17d7c5515ad19",
@@ -1868,7 +1985,8 @@
     "Lng": 106.699659,
     "Code": "ITS 8.7",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/b08430e7f37dfa255f/image"
   },
   {
     "CamId": "5b6329fdfd4edb0019c7dc0b",
@@ -1881,7 +1999,8 @@
     "Angle": 255,
     "Code": "TTH 132",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/539b117c46acaf965d/image"
   },
   {
     "CamId": "589add0fb3bf7600110283ae",
@@ -1906,7 +2025,8 @@
     "Lng": 106.691815853119,
     "Code": "ITS 3.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/785953a6136fdae345/image"
   },
   {
     "CamId": "58abbf72bd82540010390ba4",
@@ -1919,7 +2039,8 @@
     "Angle": 75,
     "Code": "TTH 49.9",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/5b02d1fc0d892169a3/image"
   },
   {
     "CamId": "6623f1f16f998a001b25281f",
@@ -1931,7 +2052,8 @@
     "Lng": 106.759042739868,
     "Code": "TTH 295",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/aac9f897bec263f755/image"
   },
   {
     "CamId": "58ad6961bd82540010390be5",
@@ -1944,7 +2066,8 @@
     "Angle": 60,
     "Code": "TTH 34.9",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/3ab860221cbf6206e5/image"
   },
   {
     "CamId": "59ca2fa302eb490011a0a3fd",
@@ -1970,7 +2093,8 @@
     "Angle": 300,
     "Code": "TTH 111",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/63e846ccfa84d1cea9/image"
   },
   {
     "CamId": "5a606dbc8576340017d0662b",
@@ -1983,7 +2107,8 @@
     "Angle": 195,
     "Code": "TTH 40.4",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/6e7b1b96f737e28e7d/image"
   },
   {
     "CamId": "662b52a31afb9c00172d8b01",
@@ -1995,7 +2120,8 @@
     "Lng": 106.670604944229,
     "Code": "TTH 350",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/b7d78053c79c7e361e/image"
   },
   {
     "CamId": "58abbee5bd82540010390ba2",
@@ -2008,7 +2134,8 @@
     "Angle": 345,
     "Code": "TTH 49.5",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/e1291dc70992b8eb8d/image"
   },
   {
     "CamId": "662a8ef41afb9c00172d2af2",
@@ -2020,7 +2147,8 @@
     "Lng": 106.704325675964,
     "Code": "TTH 325",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/e66f2aa60f477db1c8/image"
   },
   {
     "CamId": "6623f5b56f998a001b25292f",
@@ -2032,7 +2160,8 @@
     "Lng": 106.746608018875,
     "Code": "TTH 302.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/af29938447962fcb86/image"
   },
   {
     "CamId": "66b1c398779f7400186740e3",
@@ -2044,7 +2173,8 @@
     "Lng": 106.653256416321,
     "Code": "TTH 416",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/dcbe1cc4e0450d6ae3/image"
   },
   {
     "CamId": "58d7b756c1e33c00112b320d",
@@ -2057,7 +2187,8 @@
     "Angle": 75,
     "Code": "TTH 21.49",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/16a4db43f4138800b8/image"
   },
   {
     "CamId": "6623e31e6f998a001b252250",
@@ -2069,7 +2200,8 @@
     "Lng": 106.681677103043,
     "Code": "TTH 255",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/963896556c099aef51/image"
   },
   {
     "CamId": "5deb576d1dc17d7c5515acfe",
@@ -2081,7 +2213,8 @@
     "Lng": 106.683688759804,
     "Code": "ITS 2.8",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/6fec10656fdaae6bbd/image"
   },
   {
     "CamId": "6792f3cf8c5ed4001b27f61e",
@@ -2106,7 +2239,8 @@
     "Angle": 270,
     "Code": "TTH 26.5",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/a93c89fbd461d105ca/image"
   },
   {
     "CamId": "58d7b3e8c1e33c00112b3207",
@@ -2132,7 +2266,8 @@
     "Angle": 105,
     "Code": "TTH 35.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/4e90b0894af4e8e248/image"
   },
   {
     "CamId": "5d8cdc57766c88001718896e",
@@ -2145,7 +2280,8 @@
     "Angle": 180,
     "Code": "TTH 165",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/45323f420f484d0e4f/image"
   },
   {
     "CamId": "66f1266f538c780017c93579",
@@ -2157,7 +2293,8 @@
     "Lng": 106.67405962944,
     "Code": "TTH 265.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/7b4c6cf2e24470c8cb/image"
   },
   {
     "CamId": "5ad0679598d8fc001102e274",
@@ -2170,7 +2307,8 @@
     "Angle": 240,
     "Code": "TTH 105.3",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/db454788e93e903a2c/image"
   },
   {
     "CamId": "5a824b6c5058170011f6eaab",
@@ -2183,7 +2321,8 @@
     "Angle": 135,
     "Code": "TTH 104.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/cf0edd9e1a4e5ee56e/image"
   },
   {
     "CamId": "58175ac4edeb6c0012a2d5bb",
@@ -2196,7 +2335,8 @@
     "Angle": 135,
     "Code": "TTH 3.1",
     "CamType": "tth",
-    "VideoStreaming": true
+    "VideoStreaming": true,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/da485d74dca49357cd/image"
   },
   {
     "CamId": "6623f0576f998a001b2527ac",
@@ -2208,7 +2348,8 @@
     "Lng": 106.641583442688,
     "Code": "TTH 290",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/11902d5b7dbde8f55c/image"
   },
   {
     "CamId": "62da3e840637a10017d7073d",
@@ -2220,7 +2361,8 @@
     "Lng": 106.71789765358,
     "Code": "TTH 268.3",
     "CamType": "tth_axis",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/b335b2689cafa97e57/image"
   },
   {
     "CamId": "56de42f611f398ec0c481288",
@@ -2233,7 +2375,8 @@
     "Angle": 210,
     "Code": "TTH 7.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/658db1d23d4cc40f85/image"
   },
   {
     "CamId": "5d8cd614766c88001718894a",
@@ -2246,7 +2389,8 @@
     "Angle": 330,
     "Code": "TTH 147",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/f9196f7ca9fea1b60e/image"
   },
   {
     "CamId": "5a824f975058170011f6eab8",
@@ -2272,7 +2416,8 @@
     "Angle": 210,
     "Code": "TTH 104.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/cf0edd9e1a4e5ee56e/image"
   },
   {
     "CamId": "5deb576d1dc17d7c5515acf9",
@@ -2284,7 +2429,8 @@
     "Lng": 106.68202,
     "Code": "ITS 2.1-1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/45938cbe1403d259c1/image"
   },
   {
     "CamId": "587470c2b807da0011e33ce4",
@@ -2323,7 +2469,8 @@
     "Angle": 315,
     "Code": "TTH 22.6.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/2f39d13110062fe3ee/image"
   },
   {
     "CamId": "68ede6d0230ee50017d04d4c",
@@ -2349,7 +2496,8 @@
     "Angle": 270,
     "Code": "TTH 21.37",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/bad6f01ebc8d44f5ca/image"
   },
   {
     "CamId": "662b7f251afb9c00172dc8bc",
@@ -2361,7 +2509,8 @@
     "Lng": 106.697995662689,
     "Code": "TTH 377",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/53da4e190dc7c5cc3c/image"
   },
   {
     "CamId": "6623ec826f998a001b252686",
@@ -2373,7 +2522,8 @@
     "Lng": 106.676613092422,
     "Code": "TTH 279",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/5919dd62ce7b2d72b3/image"
   },
   {
     "CamId": "5deb576d1dc17d7c5515ad23",
@@ -2385,7 +2535,8 @@
     "Lng": 106.659903,
     "Code": "ITS 10.3",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/915101c7ecda0c6a42/image"
   },
   {
     "CamId": "6922939144912200174bc80c",
@@ -2435,7 +2586,8 @@
     "Angle": 75,
     "Code": "TTH 45.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/672aa1a4ab6105127c/image"
   },
   {
     "CamId": "6818863c6dfb4b0018f8f235",
@@ -2460,7 +2612,8 @@
     "Angle": 135,
     "Code": "TTH 46.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/e1d4a3894c7c0987cb/image"
   },
   {
     "CamId": "662b5adc1afb9c00172d925b",
@@ -2472,7 +2625,8 @@
     "Lng": 106.629202365875,
     "Code": "TTH 366.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/3cf001b6fcee5a2d57/image"
   },
   {
     "CamId": "5701e22bc4350a1100e26f6c",
@@ -2485,7 +2639,8 @@
     "Angle": 30,
     "Code": "TTH 1a",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/56ac093863dc29b0d5/image"
   },
   {
     "CamId": "5b87c386ca057700116404a6",
@@ -2498,7 +2653,8 @@
     "Angle": 255,
     "Code": "TTH 60.4",
     "CamType": "tth",
-    "VideoStreaming": true
+    "VideoStreaming": true,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/cb43cf9a8917fc7d16/image"
   },
   {
     "CamId": "5d8cd542766c880017188948",
@@ -2511,7 +2667,8 @@
     "Angle": 150,
     "Code": "TTH 146",
     "CamType": "tth_axis",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/33d3e7aeef76d2fc38/image"
   },
   {
     "CamId": "6623e8406f998a001b252465",
@@ -2523,7 +2680,8 @@
     "Lng": 106.692352294922,
     "Code": "TTH 271",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/869d37ffb6b31309ad/image"
   },
   {
     "CamId": "5875cef0b807da0011e33d14",
@@ -2536,7 +2694,8 @@
     "Angle": 345,
     "Code": "TTH 28.6",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/72d1b40ab7eba913e1/image"
   },
   {
     "CamId": "68188a816dfb4b0018f8f769",
@@ -2561,7 +2720,8 @@
     "Angle": 45,
     "Code": "TTH 101.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/4f46c39f469575df6c/image"
   },
   {
     "CamId": "595da2853dcfc400106f2883",
@@ -2573,7 +2733,8 @@
     "Lng": 106.698827147484,
     "Code": "TTH 21.55",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/4ce041763b79e4a537/image"
   },
   {
     "CamId": "587c8183b807da0011e33d3f",
@@ -2586,7 +2747,8 @@
     "Angle": 225,
     "Code": "TTH 27.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/c344c23e0013968f6c/image"
   },
   {
     "CamId": "5b632950fd4edb0019c7dc07",
@@ -2599,7 +2761,8 @@
     "Angle": 135,
     "Code": "TTH 131",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/d6851309f2b9fa094d/image"
   },
   {
     "CamId": "5deb576d1dc17d7c5515ad06",
@@ -2611,7 +2774,8 @@
     "Lng": 106.699558,
     "Code": "ITS 4.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/ebbb55a9696d768c24/image"
   },
   {
     "CamId": "662b54711afb9c00172d8d4f",
@@ -2623,7 +2787,8 @@
     "Lng": 106.680099964142,
     "Code": "TTH 351",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/3c9eb74b53df21aaea/image"
   },
   {
     "CamId": "5a8279865058170011f6eaef",
@@ -2636,7 +2801,8 @@
     "Angle": 330,
     "Code": "TTH 122.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/dbcd15252bd5c27a88/image"
   },
   {
     "CamId": "662b4faa1afb9c00172d875e",
@@ -2648,7 +2814,8 @@
     "Lng": 106.649479866028,
     "Code": "TTH 339",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/657cc59a2cb97f76f2/image"
   },
   {
     "CamId": "662a87641afb9c00172d24b0",
@@ -2660,7 +2827,8 @@
     "Lng": 106.580879688263,
     "Code": "TTH 305.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/7aab022d48aebe8bc0/image"
   },
   {
     "CamId": "56de42f611f398ec0c4812a1",
@@ -2672,7 +2840,8 @@
     "Lng": 106.7747069,
     "Code": "TTH 22.3",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/ce35481752a9b13c32/image"
   },
   {
     "CamId": "63ae7669bfd3d90017e8f0d9",
@@ -2696,7 +2865,8 @@
     "Lng": 106.754236221313,
     "Code": "TTH 232",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/98892c1bf0a114b122/image"
   },
   {
     "CamId": "662a8fd41afb9c00172d2bac",
@@ -2708,7 +2878,8 @@
     "Lng": 106.732370853424,
     "Code": "TTH 328",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/b5ed2c44feab1e2746/image"
   },
   {
     "CamId": "56f11afc3ac17b11001c504e",
@@ -2721,7 +2892,8 @@
     "Angle": 180,
     "Code": "TTH 31",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/677efdc29bd1f6b631/image"
   },
   {
     "CamId": "585b2b1ec3f96200127dc505",
@@ -2734,7 +2906,8 @@
     "Angle": 195,
     "Code": "TTH 37.3",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/b19fbff2c75144f178/image"
   },
   {
     "CamId": "5a825b7d5058170011f6ead4",
@@ -2747,7 +2920,8 @@
     "Angle": 15,
     "Code": "TTH 117.3",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/704a87f51619d62241/image"
   },
   {
     "CamId": "5a6069238576340017d0661c",
@@ -2759,7 +2933,8 @@
     "Lng": 106.698435544968,
     "Code": "TTH 44.6",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/1f7efd82937bc80365/image"
   },
   {
     "CamId": "662b857b1afb9c00172dd106",
@@ -2771,7 +2946,8 @@
     "Lng": 106.699739098549,
     "Code": "TTH 400",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/264a5168d1288ec1e1/image"
   },
   {
     "CamId": "56de42f611f398ec0c481298",
@@ -2784,7 +2960,8 @@
     "Angle": 120,
     "Code": "TTH 18.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/7a21a05d83579e2663/image"
   },
   {
     "CamId": "63ae75f9bfd3d90017e8f097",
@@ -2796,7 +2973,8 @@
     "Lng": 106.683275699615,
     "Code": "TTH 181.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/9a710a0f37d69f4084/image"
   },
   {
     "CamId": "63ae7829bfd3d90017e8f1ac",
@@ -2808,7 +2986,8 @@
     "Lng": 106.719351410866,
     "Code": "TTH 188.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/5bde81d801e67ff7cc/image"
   },
   {
     "CamId": "65e0556b6b18080018db665e",
@@ -2820,7 +2999,8 @@
     "Lng": 106.694637537003,
     "Code": "TTH 252",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/8b41f3f15cb132882c/image"
   },
   {
     "CamId": "662b81eb1afb9c00172dcc85",
@@ -2832,7 +3012,8 @@
     "Lng": 106.703939437866,
     "Code": "TTH 387",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/0839f31bb02be7aabf/image"
   },
   {
     "CamId": "595dd9ac3dcfc400106f28b4",
@@ -2844,7 +3025,8 @@
     "Lng": 106.653299331665,
     "Code": "TTH 21.70",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/01ac0e1cb03d7351c4/image"
   },
   {
     "CamId": "63b54d27bfd3d90017ea7ae5",
@@ -2856,7 +3038,8 @@
     "Lng": 106.787774562836,
     "Code": "TTH 226",
     "CamType": "tth",
-    "VideoStreaming": true
+    "VideoStreaming": true,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/e2da359fe2841ad173/image"
   },
   {
     "CamId": "662a8cc51afb9c00172d2938",
@@ -2868,7 +3051,8 @@
     "Lng": 106.732006072998,
     "Code": "TTH 320",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/8b57174b54f7260d1c/image"
   },
   {
     "CamId": "587654d3b807da0011e33d36",
@@ -2881,7 +3065,8 @@
     "Angle": 45,
     "Code": "TTH 22.12",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/7c464b7cf84174ae52/image"
   },
   {
     "CamId": "5990ffdbbec3b90016d2ad2d",
@@ -2894,7 +3079,8 @@
     "Angle": 255,
     "Code": "TTH 60.2",
     "CamType": "tth",
-    "VideoStreaming": true
+    "VideoStreaming": true,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/65358a831d5f522435/image"
   },
   {
     "CamId": "5a8259035058170011f6eacf",
@@ -2907,7 +3093,8 @@
     "Angle": 180,
     "Code": "TTH 117.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/a3900cfa3f5630b61e/image"
   },
   {
     "CamId": "58744f1fb807da0011e33cbd",
@@ -2920,7 +3107,8 @@
     "Angle": 90,
     "Code": "TTH 43.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/58901b9927824fe3c1/image"
   },
   {
     "CamId": "63b54cffbfd3d90017ea7ad0",
@@ -2932,7 +3120,8 @@
     "Lng": 106.732392311096,
     "Code": "TTH 225",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/d98d6e199941d0fda4/image"
   },
   {
     "CamId": "589b4644b3bf7600110283ce",
@@ -2945,7 +3134,8 @@
     "Angle": 300,
     "Code": "TTH 48.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/9644576f09a1a5de10/image"
   },
   {
     "CamId": "5d8cd8e2766c880017188958",
@@ -2958,7 +3148,8 @@
     "Angle": 255,
     "Code": "TTH 154",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/24753b8e7a3ed08ee1/image"
   },
   {
     "CamId": "63b54fe4bfd3d90017ea7ca2",
@@ -2970,7 +3161,8 @@
     "Lng": 106.773290634155,
     "Code": "TTH 231.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/90b6dfcf9af65cc4aa/image"
   },
   {
     "CamId": "63b54938bfd3d90017ea77f6",
@@ -2982,7 +3174,8 @@
     "Lng": 106.817160844803,
     "Code": "TTH 212",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/5d9aca0d1043fdab9c/image"
   },
   {
     "CamId": "6623ebd76f998a001b25264d",
@@ -2994,7 +3187,8 @@
     "Lng": 106.626455783844,
     "Code": "TTH 277",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/011d267ddd7487700e/image"
   },
   {
     "CamId": "5a6086e88576340017d0668a",
@@ -3007,7 +3201,8 @@
     "Angle": 150,
     "Code": "IDICO-QL1 30",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/8ecd73affd7d514b71/image"
   },
   {
     "CamId": "681888b66dfb4b0018f8f58c",
@@ -3045,7 +3240,8 @@
     "Angle": 345,
     "Code": "TTH 40.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/16a45c9475cd4c6006/image"
   },
   {
     "CamId": "5d8cd98d766c88001718895a",
@@ -3058,7 +3254,8 @@
     "Angle": 300,
     "Code": "TTH 155",
     "CamType": "tth_axis",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/1d8a7c6567b7705dc5/image"
   },
   {
     "CamId": "6623ee666f998a001b252726",
@@ -3070,7 +3267,8 @@
     "Lng": 106.640124320984,
     "Code": "TTH 284",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/252f76d91c09e48946/image"
   },
   {
     "CamId": "662b84c11afb9c00172dd0b5",
@@ -3082,7 +3280,8 @@
     "Lng": 106.696933507919,
     "Code": "TTH 397",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/03d64efa19e84ec552/image"
   },
   {
     "CamId": "662b51201afb9c00172d889a",
@@ -3094,7 +3293,8 @@
     "Lng": 106.60413980484,
     "Code": "TTH 345",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/4a4b0c6cfd87449c37/image"
   },
   {
     "CamId": "56df8198c062921100c143dd",
@@ -3107,7 +3307,8 @@
     "Angle": 120,
     "Code": "TTH 32.3",
     "CamType": "tth",
-    "VideoStreaming": true
+    "VideoStreaming": true,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/ee38bbc3723807c01c/image"
   },
   {
     "CamId": "56de42f611f398ec0c481282",
@@ -3120,7 +3321,8 @@
     "Angle": 225,
     "Code": "TTH 3.2",
     "CamType": "tth",
-    "VideoStreaming": true
+    "VideoStreaming": true,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/da485d74dca49357cd/image"
   },
   {
     "CamId": "58df4c2bdc195800111e04b7",
@@ -3146,7 +3348,8 @@
     "Angle": 210,
     "Code": "TTH 21.85",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/dc988d4b1a35eab8c4/image"
   },
   {
     "CamId": "6623ea416f998a001b25260a",
@@ -3158,7 +3361,8 @@
     "Lng": 106.681151390076,
     "Code": "TTH 275",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/45233a49eeca4e0bcf/image"
   },
   {
     "CamId": "662b872d1afb9c00172dd36a",
@@ -3170,7 +3374,8 @@
     "Lng": 106.677889823914,
     "Code": "TTH 407",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/123b4a87e63a392134/image"
   },
   {
     "CamId": "6623e4b06f998a001b2522f1",
@@ -3182,7 +3387,8 @@
     "Lng": 106.686387062073,
     "Code": "TTH 260",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/60e84d5bdb918fdae0/image"
   },
   {
     "CamId": "56de42f611f398ec0c48127e",
@@ -3207,7 +3413,8 @@
     "Lng": 106.671018004417,
     "Code": "TTH 21.64",
     "CamType": "tth",
-    "VideoStreaming": true
+    "VideoStreaming": true,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/8e139de159acd7061c/image"
   },
   {
     "CamId": "56f8d743025e9511002786c5",
@@ -3220,7 +3427,8 @@
     "Angle": 15,
     "Code": "TTH 29.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/e8a049ea7514415bd0/image"
   },
   {
     "CamId": "68ede5d4230ee50017d04c24",
@@ -3245,7 +3453,8 @@
     "Angle": 345,
     "Code": "TTH 121.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/ec72487885a6aa0137/image"
   },
   {
     "CamId": "662b5afe1afb9c00172d9284",
@@ -3270,7 +3479,8 @@
     "Angle": 60,
     "Code": "TTH 119.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/2936e0b6a81851950e/image"
   },
   {
     "CamId": "585b2980c3f96200127dc502",
@@ -3283,7 +3493,8 @@
     "Angle": 225,
     "Code": "TTH 37.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/ad6fb60515ef8e9561/image"
   },
   {
     "CamId": "56de42f611f398ec0c481284",
@@ -3296,7 +3507,8 @@
     "Angle": 225,
     "Code": "TTH 5a",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/8fa71bde063466a4c8/image"
   },
   {
     "CamId": "662b56c51afb9c00172d9071",
@@ -3308,7 +3520,8 @@
     "Lng": 106.671742200851,
     "Code": "TTH 355",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/5a6c12b6062012c235/image"
   },
   {
     "CamId": "63ae7a08bfd3d90017e8f285",
@@ -3320,7 +3533,8 @@
     "Lng": 106.673265695572,
     "Code": "TTH 196.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/e1395eaa10564ca79a/image"
   },
   {
     "CamId": "662a8b061afb9c00172d27d7",
@@ -3332,7 +3546,8 @@
     "Lng": 106.660873889923,
     "Code": "TTH 316",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/692c71064c4149ba55/image"
   },
   {
     "CamId": "587ee7d7b807da0011e33d55",
@@ -3345,7 +3560,8 @@
     "Angle": 180,
     "Code": "TTH 44.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/e3715b77a9f1c03bc9/image"
   },
   {
     "CamId": "5deb576d1dc17d7c5515ad12",
@@ -3369,7 +3585,8 @@
     "Lng": 106.698076,
     "Code": "ITS 8.5",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/ae5a5160793fe07446/image"
   },
   {
     "CamId": "662b51a41afb9c00172d8926",
@@ -3381,7 +3598,8 @@
     "Lng": 106.601006984711,
     "Code": "TTH 347",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/1f7a6daaca9c20cd8a/image"
   },
   {
     "CamId": "63ae7893bfd3d90017e8f1e1",
@@ -3393,7 +3611,8 @@
     "Lng": 106.707345843315,
     "Code": "TTH 189",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/3e6d805029ef450af7/image"
   },
   {
     "CamId": "662a8b9e1afb9c00172d284d",
@@ -3405,7 +3624,8 @@
     "Lng": 106.585782766342,
     "Code": "TTH 317.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/58c116606ab3f6a182/image"
   },
   {
     "CamId": "5a823ba75058170011f6ea9e",
@@ -3418,7 +3638,8 @@
     "Angle": 240,
     "Code": "TTH 100.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/02e96a48a6b48b1dae/image"
   },
   {
     "CamId": "681887346dfb4b0018f8f36a",
@@ -3443,7 +3664,8 @@
     "Lng": 106.6437292099,
     "Code": "TTH 364",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/bbfd32474d4c216d71/image"
   },
   {
     "CamId": "56df8544c062921100c143e6",
@@ -3456,7 +3678,8 @@
     "Angle": 240,
     "Code": "TTH 29.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/798f9a2fb1fa5ee6f7/image"
   },
   {
     "CamId": "595ddb493dcfc400106f28b6",
@@ -3493,7 +3716,8 @@
     "Lng": 106.683179140091,
     "Code": "TTH 412",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/f640ea4f240a8c1f6a/image"
   },
   {
     "CamId": "589b4379b3bf7600110283c9",
@@ -3519,7 +3743,8 @@
     "Angle": 30,
     "Code": "TTH 24.5",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/f597c4def8afef744b/image"
   },
   {
     "CamId": "5d8cd9cb766c88001718895c",
@@ -3532,7 +3757,8 @@
     "Angle": 195,
     "Code": "TTH 156",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/18d765d8aaa29e97ef/image"
   },
   {
     "CamId": "6623e6b86f998a001b2523b8",
@@ -3544,7 +3770,8 @@
     "Lng": 106.676344871521,
     "Code": "TTH 266",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/dd899199a3f39f72d7/image"
   },
   {
     "CamId": "5a8256315058170011f6eac9",
@@ -3557,7 +3784,8 @@
     "Angle": 210,
     "Code": "TTH 109.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/0f827d1a14a6d3ed47/image"
   },
   {
     "CamId": "5ad064b498d8fc001102e26f",
@@ -3570,7 +3798,8 @@
     "Angle": 150,
     "Code": "TTH 125.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/7fc36e6ffc859d3a14/image"
   },
   {
     "CamId": "58af8d68bd82540010390c2e",
@@ -3583,7 +3812,8 @@
     "Angle": 45,
     "Code": "TTH 35.5",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/a691195c1b0fa8f6f8/image"
   },
   {
     "CamId": "65e0552f6b18080018db6647",
@@ -3595,7 +3825,8 @@
     "Lng": 106.697888374329,
     "Code": "TTH 251",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/5125a6f45923d5bae5/image"
   },
   {
     "CamId": "595da7783dcfc400106f2888",
@@ -3620,7 +3851,8 @@
     "Lng": 106.633923053741,
     "Code": "TTH 413.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/54bf9be8487243acc5/image"
   },
   {
     "CamId": "662a8e121afb9c00172d2a3f",
@@ -3632,7 +3864,8 @@
     "Lng": 106.723868250847,
     "Code": "TTH 323.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/3480c5ca00300ace77/image"
   },
   {
     "CamId": "662b5be91afb9c00172d939b",
@@ -3644,7 +3877,8 @@
     "Lng": 106.618773937225,
     "Code": "TTH 371",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/6f9ccbe01ea5a54e1f/image"
   },
   {
     "CamId": "5b728aafca0577001163ff7e",
@@ -3694,7 +3928,8 @@
     "Lng": 106.667847633362,
     "Code": "TTH 336",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/8db2986a08f1e807a9/image"
   },
   {
     "CamId": "5a607fa38576340017d06671",
@@ -3707,7 +3942,8 @@
     "Angle": 195,
     "Code": "IDICO-QL1 08",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/fd1496f567039146a8/image"
   },
   {
     "CamId": "662b87551afb9c00172dd43a",
@@ -3719,7 +3955,8 @@
     "Lng": 106.683104038239,
     "Code": "TTH 408",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/1cf12dcffee7d798bb/image"
   },
   {
     "CamId": "5deb576d1dc17d7c5515ad21",
@@ -3731,7 +3968,8 @@
     "Lng": 106.668851,
     "Code": "ITS 10.2-1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/48f2e4406630e30a7b/image"
   },
   {
     "CamId": "68188bf46dfb4b0018f8ff12",
@@ -3769,7 +4007,8 @@
     "Angle": 255,
     "Code": "TTH 7.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/61fb0b5547775d03f0/image"
   },
   {
     "CamId": "58ad69c4bd82540010390be7",
@@ -3782,7 +4021,8 @@
     "Angle": 240,
     "Code": "TTH 34.10",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/21dbfdce454af263e4/image"
   },
   {
     "CamId": "6623f5876f998a001b25291a",
@@ -3794,7 +4034,8 @@
     "Lng": 106.745932102203,
     "Code": "TTH 302.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/af29938447962fcb86/image"
   },
   {
     "CamId": "6623e2e16f998a001b252233",
@@ -3806,7 +4047,8 @@
     "Lng": 106.689380407333,
     "Code": "TTH 254",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/634af2cf052010afd7/image"
   },
   {
     "CamId": "63b54898bfd3d90017ea77ae",
@@ -3818,7 +4060,8 @@
     "Lng": 106.796894073486,
     "Code": "TTH 209",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/51aada4b8b4b6f7073/image"
   },
   {
     "CamId": "63b549b8bfd3d90017ea782c",
@@ -3830,7 +4073,8 @@
     "Lng": 106.769192218781,
     "Code": "TTH 215",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/9a27218b61f00df2cf/image"
   },
   {
     "CamId": "662b5b271afb9c00172d9296",
@@ -3842,7 +4086,8 @@
     "Lng": 106.640210151672,
     "Code": "TTH 367",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/a0df2aa7c2f0619287/image"
   },
   {
     "CamId": "662a87df1afb9c00172d2522",
@@ -3854,7 +4099,8 @@
     "Lng": 106.585021018982,
     "Code": "TTH 307",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/82409fe329db7381d5/image"
   },
   {
     "CamId": "68ede60a230ee50017d04c69",
@@ -3880,7 +4126,8 @@
     "Angle": 150,
     "Code": "TTH 100.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/1160c78f0d8176da0e/image"
   },
   {
     "CamId": "5a6085688576340017d06684",
@@ -3893,7 +4140,8 @@
     "Angle": 90,
     "Code": "IDICO-QL1 27",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/e3bfdb8e222af5398a/image"
   },
   {
     "CamId": "595dd7693dcfc400106f28b0",
@@ -3905,7 +4153,8 @@
     "Lng": 106.65426492691,
     "Code": "TTH 21.68",
     "CamType": "tth",
-    "VideoStreaming": true
+    "VideoStreaming": true,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/f57175d8576f48e4e2/image"
   },
   {
     "CamId": "59ca329d02eb490011a0a410",
@@ -3918,7 +4167,8 @@
     "Angle": 195,
     "Code": "IDICO-QL1 35",
     "CamType": "tth",
-    "VideoStreaming": true
+    "VideoStreaming": true,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/6fea6222535e8a033f/image"
   },
   {
     "CamId": "6623e88c6f998a001b25248b",
@@ -3930,7 +4180,8 @@
     "Lng": 106.676033735275,
     "Code": "TTH 272",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/b1399cfa74f792f91f/image"
   },
   {
     "CamId": "63b54996bfd3d90017ea781a",
@@ -3942,7 +4193,8 @@
     "Lng": 106.774277687073,
     "Code": "TTH 214",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/7f718f6c99f8ff9827/image"
   },
   {
     "CamId": "56de42f611f398ec0c481283",
@@ -3955,7 +4207,8 @@
     "Angle": 225,
     "Code": "TTH 4.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/f64b6a37f006157203/image"
   },
   {
     "CamId": "5d8cdcf0766c880017188972",
@@ -3968,7 +4221,8 @@
     "Angle": 30,
     "Code": "TTH 167",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/4d4ce517b87829f121/image"
   },
   {
     "CamId": "67e217643215f90017863b73",
@@ -3981,7 +4235,8 @@
     "Angle": 15,
     "Code": "TTH 22.9.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/c5c83b1814867cdee6/image"
   },
   {
     "CamId": "662b57ec1afb9c00172d90e3",
@@ -4006,7 +4261,8 @@
     "Angle": 150,
     "Code": "TTH 45.3",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/5ae7494e8e5b3d5945/image"
   },
   {
     "CamId": "662b50571afb9c00172d87df",
@@ -4018,7 +4274,8 @@
     "Lng": 106.656239032745,
     "Code": "TTH 341",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/df72f56a3ad1269053/image"
   },
   {
     "CamId": "56df8274c062921100c143df",
@@ -4031,7 +4288,8 @@
     "Angle": 300,
     "Code": "TTH 33.1",
     "CamType": "tth",
-    "VideoStreaming": true
+    "VideoStreaming": true,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/96e8673a94fdb93340/image"
   },
   {
     "CamId": "662b52131afb9c00172d8a23",
@@ -4043,7 +4301,8 @@
     "Lng": 106.606982946396,
     "Code": "TTH 349",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/55dd690193fadc39e7/image"
   },
   {
     "CamId": "68188b786dfb4b0018f8face",
@@ -4067,7 +4326,8 @@
     "Lng": 106.596522331238,
     "Code": "TTH 21.83",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/1f2ea318bca3a57fd7/image"
   },
   {
     "CamId": "6623f0246f998a001b252797",
@@ -4079,7 +4339,8 @@
     "Lng": 106.638236045837,
     "Code": "TTH 289",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/7b9120e2a0755564d2/image"
   },
   {
     "CamId": "595da7d93dcfc400106f288a",
@@ -4104,7 +4365,8 @@
     "Lng": 106.761660575867,
     "Code": "TTH 297.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/6f920046815915b082/image"
   },
   {
     "CamId": "66b1c311779f740018674083",
@@ -4116,7 +4378,8 @@
     "Lng": 106.634910106659,
     "Code": "TTH 413.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/189cac67c1d52b4271/image"
   },
   {
     "CamId": "662a896e1afb9c00172d2674",
@@ -4128,7 +4391,8 @@
     "Lng": 106.577425003052,
     "Code": "TTH 313",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/cb65ed044ff12c87fa/image"
   },
   {
     "CamId": "68ae7f327d735d00173c74e4",
@@ -4154,7 +4418,8 @@
     "Angle": 90,
     "Code": "IDICO-QL1 25",
     "CamType": "tth",
-    "VideoStreaming": true
+    "VideoStreaming": true,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/969fae500abea796a5/image"
   },
   {
     "CamId": "662a8cfe1afb9c00172d296e",
@@ -4166,7 +4431,8 @@
     "Lng": 106.729581356049,
     "Code": "TTH 321",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/9b26848dfd9e0f4f83/image"
   },
   {
     "CamId": "589b39d9b3bf7600110283c1",
@@ -4179,7 +4445,8 @@
     "Angle": 240,
     "Code": "TTH 47.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/eda545e1e75f1aa274/image"
   },
   {
     "CamId": "5d8cd326766c88001718893e",
@@ -4192,7 +4459,8 @@
     "Angle": 270,
     "Code": "TTH 141",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/323a995296439fa910/image"
   },
   {
     "CamId": "587461c1b807da0011e33cc8",
@@ -4205,7 +4473,8 @@
     "Angle": 240,
     "Code": "TTH 21.4",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/d9ddd3b5743ad00c12/image"
   },
   {
     "CamId": "63ae76afbfd3d90017e8f106",
@@ -4217,7 +4486,8 @@
     "Lng": 106.699776649475,
     "Code": "TTH 184",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/f28c5566d75686b68d/image"
   },
   {
     "CamId": "63b661a3bfd3d90017eaa520",
@@ -4229,7 +4499,8 @@
     "Lng": 106.713321805,
     "Code": "TTH 242.4",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/b9195a3e68167df245/image"
   },
   {
     "CamId": "583f926761cfea0012cf68f1",
@@ -4242,7 +4513,8 @@
     "Angle": 120,
     "Code": "TTH 22.9",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/c5c83b1814867cdee6/image"
   },
   {
     "CamId": "6878bab06145d3001ba517f7",
@@ -4254,7 +4526,8 @@
     "Lng": 106.739709377289,
     "Code": "TTH 230.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/2df17f8cd5435aacef/image"
   },
   {
     "CamId": "56df81d8c062921100c143de",
@@ -4267,7 +4540,8 @@
     "Angle": 45,
     "Code": "TTH 32.2",
     "CamType": "tth",
-    "VideoStreaming": true
+    "VideoStreaming": true,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/d4583d91f21bfa20d6/image"
   },
   {
     "CamId": "63ae73cebfd3d90017e8f00d",
@@ -4280,7 +4554,8 @@
     "Angle": 150,
     "Code": "TTH 180.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/d9bd9372b75b0b48a2/image"
   },
   {
     "CamId": "662a8a661afb9c00172d2762",
@@ -4292,7 +4567,8 @@
     "Lng": 106.610469818115,
     "Code": "TTH 315",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/c0eb998b6d696599b6/image"
   },
   {
     "CamId": "6623e7526f998a001b252407",
@@ -4317,7 +4593,8 @@
     "Angle": 180,
     "Code": "IDICO-QL1 24",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/dd191428defc2ad188/image"
   },
   {
     "CamId": "56de42f611f398ec0c48129b",
@@ -4330,7 +4607,8 @@
     "Angle": 315,
     "Code": "TTH 19.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/a2b50a283b868506e4/image"
   },
   {
     "CamId": "586e2492f9fab7001111b0ab",
@@ -4343,7 +4621,8 @@
     "Angle": 105,
     "Code": "TTH 34.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/a2c884a335981ccaa3/image"
   },
   {
     "CamId": "68edd621230ee50017d031c5",
@@ -4381,7 +4660,8 @@
     "Lng": 106.660181879997,
     "Code": "TTH 356",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/d7f670e39fe43e0722/image"
   },
   {
     "CamId": "587479b1b807da0011e33cf9",
@@ -4406,7 +4686,8 @@
     "Lng": 106.718176603317,
     "Code": "TTH 268.2",
     "CamType": "tth_axis",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/b335b2689cafa97e57/image"
   },
   {
     "CamId": "5b0b7aba0e517b00119fd800",
@@ -4419,7 +4700,8 @@
     "Angle": 315,
     "Code": "TTH 126.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/1a68e18db8f3388636/image"
   },
   {
     "CamId": "63b54909bfd3d90017ea77e4",
@@ -4431,7 +4713,8 @@
     "Lng": 106.792902946472,
     "Code": "TTH 211.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/b26a460b6af0542496/image"
   },
   {
     "CamId": "595ddbbf3dcfc400106f28b8",
@@ -4456,7 +4739,8 @@
     "Lng": 106.725064516068,
     "Code": "TTH 323.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/55c13c3fbd69642113/image"
   },
   {
     "CamId": "5d9de43b766c880017188cb6",
@@ -4469,7 +4753,8 @@
     "Angle": 255,
     "Code": "TTH 1.6",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/9952d965c5e5cc64a0/image"
   },
   {
     "CamId": "5a8250cc5058170011f6eaba",
@@ -4507,7 +4792,8 @@
     "Lng": 106.514360904694,
     "Code": "TTH 432",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/947c35273727533d71/image"
   },
   {
     "CamId": "5b0b7e1c0e517b00119fd80b",
@@ -4546,7 +4832,8 @@
     "Angle": 135,
     "Code": "TTH 19.1",
     "CamType": "tth",
-    "VideoStreaming": true
+    "VideoStreaming": true,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/d98afe1db85d143a16/image"
   },
   {
     "CamId": "662b57711afb9c00172d90a7",
@@ -4558,7 +4845,8 @@
     "Lng": 106.649898290634,
     "Code": "TTH 358",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/99a448893e2a223b7b/image"
   },
   {
     "CamId": "63b54968bfd3d90017ea7808",
@@ -4570,7 +4858,8 @@
     "Lng": 106.781616210938,
     "Code": "TTH 213",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/e81e3f23cee0b9bb21/image"
   },
   {
     "CamId": "56de42f611f398ec0c48127f",
@@ -4583,7 +4872,8 @@
     "Angle": 60,
     "Code": "TTH 2.1",
     "CamType": "tth",
-    "VideoStreaming": true
+    "VideoStreaming": true,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/5694a86dd1c73f9e92/image"
   },
   {
     "CamId": "58df5016dc195800111e04bd",
@@ -4595,7 +4885,8 @@
     "Lng": 106.668566465378,
     "Code": "TTH 26.6",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/58eba6c904e0a23520/image"
   },
   {
     "CamId": "681887836dfb4b0018f8f3d1",
@@ -4647,7 +4938,8 @@
     "Angle": 240,
     "Code": "TTH 34.8",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/8ac4391e0ef4ec1b1c/image"
   },
   {
     "CamId": "68fae32b6b936b001721878b",
@@ -4673,7 +4965,8 @@
     "Angle": 270,
     "Code": "TTH 21.60",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/00b27e691533ec638e/image"
   },
   {
     "CamId": "681883f56dfb4b0018f8ef97",
@@ -4698,7 +4991,8 @@
     "Lng": 106.694197654724,
     "Code": "TTH 402",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/d962ce6e72cb10bf2a/image"
   },
   {
     "CamId": "692293f044912200174bc856",
@@ -4734,7 +5028,8 @@
     "Lng": 106.660782694817,
     "Code": "TTH 163",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/3079852695ac8ad9b9/image"
   },
   {
     "CamId": "63b54d5abfd3d90017ea7afe",
@@ -4746,7 +5041,8 @@
     "Lng": 106.755888462067,
     "Code": "TTH 227",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/782b125132d2da4642/image"
   },
   {
     "CamId": "5deb576d1dc17d7c5515ad13",
@@ -4758,7 +5054,8 @@
     "Lng": 106.700359,
     "Code": "ITS 7.52",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/8d0fe4129f4e601610/image"
   },
   {
     "CamId": "662b862a1afb9c00172dd1ff",
@@ -4770,7 +5067,8 @@
     "Lng": 106.699524521828,
     "Code": "TTH 403",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/9f747332aae6f6f468/image"
   },
   {
     "CamId": "5deb576d1dc17d7c5515acf2",
@@ -4782,7 +5080,8 @@
     "Lng": 106.683694124222,
     "Code": "ITS 1.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/7ca0e3816cd728d2d3/image"
   },
   {
     "CamId": "5a824e465058170011f6eab4",
@@ -4795,7 +5094,8 @@
     "Angle": 165,
     "Code": "TTH 115.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/4302af7aa8b7a61a4b/image"
   },
   {
     "CamId": "662b57471afb9c00172d9095",
@@ -4807,7 +5107,8 @@
     "Lng": 106.641572713852,
     "Code": "TTH 357",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/06feed71a2721b6386/image"
   },
   {
     "CamId": "56de42f611f398ec0c481291",
@@ -4819,7 +5120,8 @@
     "Lng": 106.668738126755,
     "Code": "TTH 13.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/0a68fcc6b29364b2b1/image"
   },
   {
     "CamId": "584e71cb61cfea0012cf694b",
@@ -4832,7 +5134,8 @@
     "Angle": 270,
     "Code": "TTH 21.36",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/fd1496f567039146a8/image"
   },
   {
     "CamId": "63b54c93bfd3d90017ea7ab8",
@@ -4844,7 +5147,8 @@
     "Lng": 106.777850389481,
     "Code": "TTH 224",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/3cf21da542bb9e638b/image"
   },
   {
     "CamId": "595f874d3dcfc400106f28ec",
@@ -4870,7 +5174,8 @@
     "Angle": 240,
     "Code": "TTH 120.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/957be3d2f3a5c9fdb8/image"
   },
   {
     "CamId": "63b3c9bfbfd3d90017e9b039",
@@ -4882,7 +5187,8 @@
     "Lng": 106.746854782104,
     "Code": "TTH 208",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/26920e443263fa6c66/image"
   },
   {
     "CamId": "5deb576d1dc17d7c5515acf4",
@@ -4894,7 +5200,8 @@
     "Lng": 106.674156,
     "Code": "ITS 1.3-1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/2d0c88ada84a4dcdb5/image"
   },
   {
     "CamId": "6922944044912200174bc883",
@@ -4919,7 +5226,8 @@
     "Angle": 120,
     "Code": "TTH 36.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/a1d63379e554099e1a/image"
   },
   {
     "CamId": "68a5894a4e89b100173b6202",
@@ -4944,7 +5252,8 @@
     "Lng": 106.675518751144,
     "Code": "TTH 280",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/99880c15811f130e9d/image"
   },
   {
     "CamId": "6623e3ea6f998a001b2522ae",
@@ -4956,7 +5265,8 @@
     "Lng": 106.682138442993,
     "Code": "TTH 258",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/bc4de40c8ad99ab08a/image"
   },
   {
     "CamId": "662b7d0c1afb9c00172dc6a6",
@@ -4968,7 +5278,8 @@
     "Lng": 106.690131425858,
     "Code": "TTH 375",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/a511f42171cef26adf/image"
   },
   {
     "CamId": "662b54bb1afb9c00172d8dbb",
@@ -4980,7 +5291,8 @@
     "Lng": 106.652623414993,
     "Code": "TTH 352",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/3e8ac2b33c8ad517fe/image"
   },
   {
     "CamId": "662b58bd1afb9c00172d9119",
@@ -4992,7 +5304,8 @@
     "Lng": 106.66899561882,
     "Code": "TTH 362",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/6937e763323a775485/image"
   },
   {
     "CamId": "595f86c43dcfc400106f28ea",
@@ -5018,7 +5331,8 @@
     "Angle": 195,
     "Code": "IDICO-QL1 34",
     "CamType": "tth",
-    "VideoStreaming": true
+    "VideoStreaming": true,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/bcca8c83a1c61f494d/image"
   },
   {
     "CamId": "5a82439f5058170011f6eaa9",
@@ -5031,7 +5345,8 @@
     "Angle": 180,
     "Code": "TTH 103",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/6bf9339dc539d6fc16/image"
   },
   {
     "CamId": "6623e5d66f998a001b25235a",
@@ -5043,7 +5358,8 @@
     "Lng": 106.670325994492,
     "Code": "TTH 263",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/fd4349bb77eff1cc17/image"
   },
   {
     "CamId": "58d7c20ac1e33c00112b321c",
@@ -5056,7 +5372,8 @@
     "Angle": 255,
     "Code": "TTH 45.4",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/ee3071f4ea851c7d08/image"
   },
   {
     "CamId": "589d0b74b3bf7600110283d4",
@@ -5069,7 +5386,8 @@
     "Angle": 90,
     "Code": "TTH 49.4",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/46fc6581cf2cf17c67/image"
   },
   {
     "CamId": "56df807bc062921100c143da",
@@ -5082,7 +5400,8 @@
     "Angle": 120,
     "Code": "TTH 28.3",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/981b659097ffc879d7/image"
   },
   {
     "CamId": "662b82a61afb9c00172dcdfd",
@@ -5094,7 +5413,8 @@
     "Lng": 106.689380407333,
     "Code": "TTH 389",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/7eea2fb5029456c7f0/image"
   },
   {
     "CamId": "586e266ef9fab7001111b0b0",
@@ -5107,7 +5427,8 @@
     "Angle": 240,
     "Code": "TTH 28.5",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/72d1b40ab7eba913e1/image"
   },
   {
     "CamId": "63ae7a74bfd3d90017e8f2c7",
@@ -5119,7 +5440,8 @@
     "Lng": 106.665540933609,
     "Code": "TTH 198",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/b02949a4e78a2e7a63/image"
   },
   {
     "CamId": "59d3414302eb490011a0a610",
@@ -5132,7 +5454,8 @@
     "Angle": 45,
     "Code": "TTH 33.6",
     "CamType": "tth",
-    "VideoStreaming": true
+    "VideoStreaming": true,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/2a686fc2ed02e4989d/image"
   },
   {
     "CamId": "6623e9e96f998a001b2525ce",
@@ -5144,7 +5467,8 @@
     "Lng": 106.681923866272,
     "Code": "TTH 274",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/f960e5519add8a0a5f/image"
   },
   {
     "CamId": "63ae7a9cbfd3d90017e8f303",
@@ -5156,7 +5480,8 @@
     "Lng": 106.679091453552,
     "Code": "TTH 199",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/ab37c1b4b03ce8d603/image"
   },
   {
     "CamId": "5a6085188576340017d06682",
@@ -5182,7 +5507,8 @@
     "Angle": 240,
     "Code": "TTH 1.4",
     "CamType": "tth",
-    "VideoStreaming": true
+    "VideoStreaming": true,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/27dc7416b3661fcccf/image"
   },
   {
     "CamId": "5a606a0f8576340017d0661e",
@@ -5194,7 +5520,8 @@
     "Lng": 106.704116463661,
     "Code": "TTH 44.7",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/34e93c2e4e09b2fd97/image"
   },
   {
     "CamId": "56de42f611f398ec0c481286",
@@ -5207,7 +5534,8 @@
     "Angle": 225,
     "Code": "TTH 5.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/46daed9f3a1352bcdf/image"
   },
   {
     "CamId": "6623f14b6f998a001b2527f0",
@@ -5219,7 +5547,8 @@
     "Lng": 106.632571220398,
     "Code": "TTH 293",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/5b41d1c4c9076b2e50/image"
   },
   {
     "CamId": "662b4f411afb9c00172d86fc",
@@ -5231,7 +5560,8 @@
     "Lng": 106.642361283302,
     "Code": "TTH 337",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/03e7391eed902b7937/image"
   },
   {
     "CamId": "6792f9c88c5ed4001b27fb3d",
@@ -5243,7 +5573,8 @@
     "Lng": 106.776037216187,
     "Code": "TTH 0008",
     "CamType": "tth",
-    "VideoStreaming": true
+    "VideoStreaming": true,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/451b2c38765b67b2d4/image"
   },
   {
     "CamId": "662b843d1afb9c00172dd02d",
@@ -5255,7 +5586,8 @@
     "Lng": 106.701825857162,
     "Code": "TTH 395",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/67bbb4da7fd911029d/image"
   },
   {
     "CamId": "595d9b3b3dcfc400106f287e",
@@ -5281,7 +5613,8 @@
     "Angle": 225,
     "Code": "TTH 26.7",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/3079852695ac8ad9b9/image"
   },
   {
     "CamId": "662b50e51afb9c00172d886a",
@@ -5293,7 +5626,8 @@
     "Lng": 106.624610424042,
     "Code": "TTH 344",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/cd1777378d6f20b4e7/image"
   },
   {
     "CamId": "5deb576d1dc17d7c5515ad1a",
@@ -5305,7 +5639,8 @@
     "Lng": 106.697417,
     "Code": "ITS 8.51",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/f075ef505337620106/image"
   },
   {
     "CamId": "5deb576d1dc17d7c5515ad0b",
@@ -5317,7 +5652,8 @@
     "Lng": 106.699042,
     "Code": "ITS 7.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/b88a9830f2e7a41d78/image"
   },
   {
     "CamId": "5a6087858576340017d0668e",
@@ -5330,7 +5666,8 @@
     "Angle": 150,
     "Code": "IDICO-QL1 32",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/94a9577ab41a58f0a5/image"
   },
   {
     "CamId": "662b4e581afb9c00172d862f",
@@ -5342,7 +5679,8 @@
     "Lng": 106.677095890045,
     "Code": "TTH 333",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/4b775917095f83cb2f/image"
   },
   {
     "CamId": "587464e2b807da0011e33cd9",
@@ -5355,7 +5693,8 @@
     "Angle": 60,
     "Code": "TTH 21.11",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/524c58068bcca50d66/image"
   },
   {
     "CamId": "58afdbaebd82540010390c48",
@@ -5368,7 +5707,8 @@
     "Angle": 60,
     "Code": "TTH 21.42",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/44c63b0ba04baee4c9/image"
   },
   {
     "CamId": "63b54c51bfd3d90017ea7aa0",
@@ -5380,7 +5720,8 @@
     "Lng": 106.760228276253,
     "Code": "TTH 223",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/54118980eddc36445c/image"
   },
   {
     "CamId": "58ad6214bd82540010390be2",
@@ -5393,7 +5734,8 @@
     "Angle": 15,
     "Code": "TTH 38.8",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/88db06a1c636feb8a6/image"
   },
   {
     "CamId": "5deb576d1dc17d7c5515ad09",
@@ -5405,7 +5747,8 @@
     "Lng": 106.647017598152,
     "Code": "ITS 6.51",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/3c7d778b542bcd33cc/image"
   },
   {
     "CamId": "58af8a0bbd82540010390c25",
@@ -5418,7 +5761,8 @@
     "Angle": 45,
     "Code": "TTH 35.3",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/2c85bef40906b2a56f/image"
   },
   {
     "CamId": "5b0b74280e517b00119fd7f9",
@@ -5444,7 +5788,8 @@
     "Angle": 315,
     "Code": "TTH 10.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/e80f2a765920b57a9b/image"
   },
   {
     "CamId": "587ef859b807da0011e33d5b",
@@ -5457,7 +5802,8 @@
     "Angle": 150,
     "Code": "TTH 45.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/a9b3b200b5ef12ab2a/image"
   },
   {
     "CamId": "58744e97b807da0011e33cb9",
@@ -5470,7 +5816,8 @@
     "Angle": 180,
     "Code": "TTH 42.3",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/16dcd07078bc60ce60/image"
   },
   {
     "CamId": "692293c644912200174bc83b",
@@ -5494,7 +5841,8 @@
     "Lng": 106.808009147644,
     "Code": "TTH 217",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/781fd02831043e7d1a/image"
   },
   {
     "CamId": "58c2717ed56e930010a39ac0",
@@ -5507,7 +5855,8 @@
     "Angle": 345,
     "Code": "TTH 42.6",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/0e7698584a9a54d601/image"
   },
   {
     "CamId": "58afcd9bbd82540010390c41",
@@ -5520,7 +5869,8 @@
     "Angle": 15,
     "Code": "TTH 21.41",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/945480a162c7cc614b/image"
   },
   {
     "CamId": "63b54a9ebfd3d90017ea7911",
@@ -5532,7 +5882,8 @@
     "Lng": 106.828694343567,
     "Code": "TTH 219",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/36554ba417a12649b6/image"
   },
   {
     "CamId": "5bbc7163ca0577001164127f",
@@ -5545,7 +5896,8 @@
     "Angle": 195,
     "Code": "TTH 137",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/c2c5ee877b6df5b53e/image"
   },
   {
     "CamId": "6623f3d66f998a001b252890",
@@ -5557,7 +5909,8 @@
     "Lng": 106.769835948944,
     "Code": "TTH 298",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/71e01947fd2756c30f/image"
   },
   {
     "CamId": "5b6005b6fd4edb0019c7db25",
@@ -5570,7 +5923,8 @@
     "Angle": 135,
     "Code": "TTH 103.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/b577f532f1b059dafb/image"
   },
   {
     "CamId": "662a902a1afb9c00172d2bed",
@@ -5582,7 +5936,8 @@
     "Lng": 106.59907579422,
     "Code": "TTH 329",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/7c3f7ba9a4dd860d57/image"
   },
   {
     "CamId": "662b85481afb9c00172dd0f1",
@@ -5594,7 +5949,8 @@
     "Lng": 106.703091859818,
     "Code": "TTH 399",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/fe20de8e613a51d88d/image"
   },
   {
     "CamId": "6623ef2b6f998a001b252753",
@@ -5606,7 +5962,8 @@
     "Lng": 106.587703227997,
     "Code": "TTH 286",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/8f020c5bba7e20e157/image"
   },
   {
     "CamId": "66b1c4e7779f7400186741e4",
@@ -5618,7 +5975,8 @@
     "Lng": 106.665455102921,
     "Code": "TTH 421",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/3e906f44611fbfdd08/image"
   },
   {
     "CamId": "56de42f611f398ec0c48129c",
@@ -5631,7 +5989,8 @@
     "Angle": 60,
     "Code": "TTH 20.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/a84baca9827101e5a3/image"
   },
   {
     "CamId": "587c8661b807da0011e33d43",
@@ -5644,7 +6003,8 @@
     "Angle": 45,
     "Code": "TTH 38.6",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/dd706bc9cb41f21d40/image"
   },
   {
     "CamId": "5b632a79fd4edb0019c7dc0f",
@@ -5657,7 +6017,8 @@
     "Angle": 345,
     "Code": "TTH 133",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/d4e91d434490364e56/image"
   },
   {
     "CamId": "662a87a41afb9c00172d24e9",
@@ -5669,7 +6030,8 @@
     "Lng": 106.569678783417,
     "Code": "TTH 306",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/247dadcd6b7513aeb5/image"
   },
   {
     "CamId": "595dd4133dcfc400106f28a9",
@@ -5682,7 +6044,8 @@
     "Angle": 105,
     "Code": "TTH 21.65",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/8e139de159acd7061c/image"
   },
   {
     "CamId": "5ad0644698d8fc001102e26b",
@@ -5695,7 +6058,8 @@
     "Angle": 315,
     "Code": "TTH 125.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/789d4590a2b0650478/image"
   },
   {
     "CamId": "662b5b8c1afb9c00172d92ca",
@@ -5707,7 +6071,8 @@
     "Lng": 106.617207527161,
     "Code": "TTH 369",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/310ad4bf4084ea8a64/image"
   },
   {
     "CamId": "5d8cd7bb766c880017188952",
@@ -5759,7 +6124,8 @@
     "Angle": 240,
     "Code": "TTH 36.3",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/ca559ea08cee02e8df/image"
   },
   {
     "CamId": "63ae75debfd3d90017e8f082",
@@ -5771,7 +6137,8 @@
     "Lng": 106.683892607689,
     "Code": "TTH 181.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/3c232b523c968d3e4e/image"
   },
   {
     "CamId": "6623eb466f998a001b252632",
@@ -5783,7 +6150,8 @@
     "Lng": 106.679220199585,
     "Code": "TTH 276",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/818f071c6f5c3b2467/image"
   },
   {
     "CamId": "5a824dc05058170011f6eab2",
@@ -5796,7 +6164,8 @@
     "Angle": 120,
     "Code": "TTH 115.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/ddfe2ee188d2646565/image"
   },
   {
     "CamId": "5d8cd49f766c880017188944",
@@ -5821,7 +6190,8 @@
     "Lng": 106.704819202423,
     "Code": "TTH 393",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/9e2ba60b3ab91d0ff9/image"
   },
   {
     "CamId": "5a606c078576340017d06624",
@@ -5846,7 +6216,8 @@
     "Lng": 106.668459,
     "Code": "ITS 1.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/a7257c1882a4175a69/image"
   },
   {
     "CamId": "5a8254b05058170011f6eac3",
@@ -5859,7 +6230,8 @@
     "Angle": 15,
     "Code": "TTH 108.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/73eafc0bbcc4f232e7/image"
   },
   {
     "CamId": "662b50c11afb9c00172d8843",
@@ -5871,7 +6243,8 @@
     "Lng": 106.624084711075,
     "Code": "TTH 343",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/58175b6a55f03d253a/image"
   },
   {
     "CamId": "63ae77bfbfd3d90017e8f18f",
@@ -5883,7 +6256,8 @@
     "Lng": 106.717768907547,
     "Code": "TTH 188.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/a9a83222bd941a052e/image"
   },
   {
     "CamId": "6623f51a6f998a001b252900",
@@ -5895,7 +6269,8 @@
     "Lng": 106.716363430023,
     "Code": "TTH 301",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/67da0b355e9c38cb1c/image"
   },
   {
     "CamId": "5deb576d1dc17d7c5515ad1b",
@@ -5919,7 +6294,8 @@
     "Lng": 106.655729,
     "Code": "ITS 6.52",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/0650f6d6b23d627a65/image"
   },
   {
     "CamId": "58744e3eb807da0011e33cb7",
@@ -5932,7 +6308,8 @@
     "Angle": 30,
     "Code": "TTH 42.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/65aff873165cc92f02/image"
   },
   {
     "CamId": "58744dd9b807da0011e33cb5",
@@ -5945,7 +6322,8 @@
     "Angle": 180,
     "Code": "TTH 42.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/d50b7dc2a4ab2a0496/image"
   },
   {
     "CamId": "56df8416c062921100c143e4",
@@ -5958,7 +6336,8 @@
     "Angle": 105,
     "Code": "TTH 24.3",
     "CamType": "tth_axis",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/fe75857ba5401841c9/image"
   },
   {
     "CamId": "68ede438230ee50017d04a79",
@@ -5996,7 +6375,8 @@
     "Angle": 120,
     "Code": "TTH 12.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/bcb6f876dcd5bb3a2d/image"
   },
   {
     "CamId": "681883b46dfb4b0018f8ef39",
@@ -6022,7 +6402,8 @@
     "Angle": 300,
     "Code": "TTH 35.4",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/a691195c1b0fa8f6f8/image"
   },
   {
     "CamId": "6623e3a26f998a001b252291",
@@ -6034,7 +6415,8 @@
     "Lng": 106.684466600418,
     "Code": "TTH 257",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/ce6c59e9f1a8e028de/image"
   },
   {
     "CamId": "589b3ceeb3bf7600110283c3",
@@ -6047,7 +6429,8 @@
     "Angle": 315,
     "Code": "TTH 47.3",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/72bf90f12c494b4742/image"
   },
   {
     "CamId": "595dcab53dcfc400106f289d",
@@ -6060,7 +6443,8 @@
     "Angle": 270,
     "Code": "TTH 21.63",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/d8a6ce18c103074203/image"
   },
   {
     "CamId": "58ad7291bd82540010390bf9",
@@ -6073,7 +6457,8 @@
     "Angle": 270,
     "Code": "TTH 44.3",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/9de1268cb3c84e52c9/image"
   },
   {
     "CamId": "662a89211afb9c00172d2636",
@@ -6085,7 +6470,8 @@
     "Lng": 106.597981452942,
     "Code": "TTH 312",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/4ea4aae3b56584904a/image"
   },
   {
     "CamId": "5deb576d1dc17d7c5515ad05",
@@ -6097,7 +6483,8 @@
     "Lng": 106.697491,
     "Code": "ITS 4.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/4ebe36e1e9e8f26b7a/image"
   },
   {
     "CamId": "595dd4f43dcfc400106f28ab",
@@ -6110,7 +6497,8 @@
     "Angle": 270,
     "Code": "TTH 21.66",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/37485be76b04136463/image"
   },
   {
     "CamId": "68a589c84e89b100173b629d",
@@ -6147,7 +6535,8 @@
     "Lng": 106.700012683868,
     "Code": "TTH 396",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/629c12f7b7c4c9fcdc/image"
   },
   {
     "CamId": "6623f0b46f998a001b2527c3",
@@ -6159,7 +6548,8 @@
     "Lng": 106.631401777267,
     "Code": "TTH 291",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/1cb52437e0835e7696/image"
   },
   {
     "CamId": "6922928544912200174bc755",
@@ -6183,7 +6573,8 @@
     "Lng": 106.723374724388,
     "Code": "TTH 309",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/3480c5ca00300ace77/image"
   },
   {
     "CamId": "5a607f078576340017d0666f",
@@ -6222,7 +6613,8 @@
     "Angle": 315,
     "Code": "TTH 116.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/2607e5c5f35a453b28/image"
   },
   {
     "CamId": "6623ed396f998a001b2526b8",
@@ -6234,7 +6626,8 @@
     "Lng": 106.683468818665,
     "Code": "TTH 281",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/f010349861fd2b5825/image"
   },
   {
     "CamId": "5b632b60fd4edb0019c7dc12",
@@ -6247,7 +6640,8 @@
     "Angle": 330,
     "Code": "TTH 134",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/1b5c27af1246e97019/image"
   },
   {
     "CamId": "587c8d97b807da0011e33d49",
@@ -6260,7 +6654,8 @@
     "Angle": 270,
     "Code": "TTH 34.4",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/35c2684710313aebe5/image"
   },
   {
     "CamId": "59414c883dcfc400106f260b",
@@ -6273,7 +6668,8 @@
     "Angle": 60,
     "Code": "TTH 38.9",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/e1da03fde1014b729c/image"
   },
   {
     "CamId": "56df82d4c062921100c143e0",
@@ -6286,7 +6682,8 @@
     "Angle": 30,
     "Code": "TTH 33.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/a01348ecb541e24954/image"
   },
   {
     "CamId": "6792f1008c5ed4001b27f41f",
@@ -6311,7 +6708,8 @@
     "Angle": 120,
     "Code": "TTH 21.14",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/c90910fbe6fa172e41/image"
   },
   {
     "CamId": "587463bab807da0011e33cd3",
@@ -6323,7 +6721,8 @@
     "Lng": 106.748399734497,
     "Code": "TTH 21.8",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/b1f43e54cde555463c/image"
   },
   {
     "CamId": "5deb576d1dc17d7c5515ad1c",
@@ -6335,7 +6734,8 @@
     "Lng": 106.707260012627,
     "Code": "ITS 9.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/193c0b23a08dedcd63/image"
   },
   {
     "CamId": "56de42f611f398ec0c481287",
@@ -6348,7 +6748,8 @@
     "Angle": 225,
     "Code": "TTH 6.1",
     "CamType": "tth",
-    "VideoStreaming": true
+    "VideoStreaming": true,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/460a8fe7853f4f3b04/image"
   },
   {
     "CamId": "662b5c981afb9c00172d94c0",
@@ -6360,7 +6761,8 @@
     "Lng": 106.619310379028,
     "Code": "TTH 373",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/7a294bb945980f1b8e/image"
   },
   {
     "CamId": "662a861e1afb9c00172d23ad",
@@ -6372,7 +6774,8 @@
     "Lng": 106.718187332153,
     "Code": "TTH 303",
     "CamType": "tth",
-    "VideoStreaming": true
+    "VideoStreaming": true,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/cb660ac9f24eab3f71/image"
   },
   {
     "CamId": "662b5a9c1afb9c00172d9240",
@@ -6384,7 +6787,8 @@
     "Lng": 106.650145053864,
     "Code": "TTH 365",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/16118df4455733c6e1/image"
   },
   {
     "CamId": "662a88a01afb9c00172d25d1",
@@ -6420,7 +6824,8 @@
     "Lng": 106.653825044632,
     "Code": "TTH 332",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/df84b5f2d5d06287f0/image"
   },
   {
     "CamId": "5d8cdb4b766c880017188966",
@@ -6432,7 +6837,8 @@
     "Lng": 106.658374071121,
     "Code": "TTH 161",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/7a216eddf841514829/image"
   },
   {
     "CamId": "58b57a6c17139d0010f35d65",
@@ -6457,7 +6863,8 @@
     "Lng": 106.695485115051,
     "Code": "TTH 240",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/5b8bd03889a5587839/image"
   },
   {
     "CamId": "62da3e390637a10017d706ff",
@@ -6469,7 +6876,8 @@
     "Lng": 106.718230247498,
     "Code": "TTH 268.1",
     "CamType": "tth_axis",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/17d1bd7a9c4addd178/image"
   },
   {
     "CamId": "5deb576d1dc17d7c5515ad10",
@@ -6481,7 +6889,8 @@
     "Lng": 106.689579,
     "Code": "ITS 7.7",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/991c7e59fb04b478b8/image"
   },
   {
     "CamId": "56f11ac33ac17b11001c504c",
@@ -6494,7 +6903,8 @@
     "Angle": 315,
     "Code": "TTH 34.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/441304b6d6bb83abf5/image"
   },
   {
     "CamId": "66b1c4a2779f74001867418c",
@@ -6506,7 +6916,8 @@
     "Lng": 106.664553880692,
     "Code": "TTH 420",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/74d0adc6097970a877/image"
   },
   {
     "CamId": "631813ebc9eae60017a196b0",
@@ -6518,7 +6929,8 @@
     "Lng": 106.731228232384,
     "Code": "TTH 49.8",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/c154a8cbc14950ada9/image"
   },
   {
     "CamId": "68188cfa6dfb4b0018f9013c",
@@ -6544,7 +6956,8 @@
     "Angle": 90,
     "Code": "TTH 29.3",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/1a8a9ace2ea7bb9c15/image"
   },
   {
     "CamId": "5deb576d1dc17d7c5515ad0e",
@@ -6556,7 +6969,8 @@
     "Lng": 106.686639,
     "Code": "ITS 7.6",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/b5af0d03d6cf5ff479/image"
   },
   {
     "CamId": "68ede227230ee50017d0480b",
@@ -6580,7 +6994,8 @@
     "Lng": 106.689658,
     "Code": "ITS 7.5",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/1097f23da6a09ef44a/image"
   },
   {
     "CamId": "68ede25b230ee50017d0484d",
@@ -6606,7 +7021,8 @@
     "Angle": 300,
     "Code": "TTH 28.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/fd26cf4359965bb9b5/image"
   },
   {
     "CamId": "5deb576d1dc17d7c5515acf8",
@@ -6618,7 +7034,8 @@
     "Lng": 106.67782,
     "Code": "ITS 1.51",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/2fa177bdb7e1e10431/image"
   },
   {
     "CamId": "591c6833a6bfb500119400a3",
@@ -6631,7 +7048,8 @@
     "Angle": 195,
     "Code": "TTH 48.8",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/f7075976ff24c32898/image"
   },
   {
     "CamId": "63ae7938bfd3d90017e8f226",
@@ -6643,7 +7061,8 @@
     "Lng": 106.595476269722,
     "Code": "TTH 192",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/32ea9ad6814d977a6a/image"
   },
   {
     "CamId": "63b664edbfd3d90017eaaa24",
@@ -6668,7 +7087,8 @@
     "Angle": 180,
     "Code": "TTH 24.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/fe75857ba5401841c9/image"
   },
   {
     "CamId": "6623e5776f998a001b252337",
@@ -6680,7 +7100,8 @@
     "Lng": 106.678436994553,
     "Code": "TTH 262",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/6689952c58f3d0c35a/image"
   },
   {
     "CamId": "59ca308302eb490011a0a403",
@@ -6693,7 +7114,8 @@
     "Angle": 195,
     "Code": "IDICO-QL1 22",
     "CamType": "tth",
-    "VideoStreaming": true
+    "VideoStreaming": true,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/1ea1ada9dc805af33a/image"
   },
   {
     "CamId": "5deb576d1dc17d7c5515acfd",
@@ -6705,7 +7127,8 @@
     "Lng": 106.682181358337,
     "Code": "ITS 2.7",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/623c18bda13712d507/image"
   },
   {
     "CamId": "56df8159c062921100c143dc",
@@ -6718,7 +7141,8 @@
     "Angle": 255,
     "Code": "TTH 32.1",
     "CamType": "tth",
-    "VideoStreaming": true
+    "VideoStreaming": true,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/05d352f97bcb312b7e/image"
   },
   {
     "CamId": "587ef2e4b807da0011e33d57",
@@ -6731,7 +7155,8 @@
     "Angle": 285,
     "Code": "TTH 34.7",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/eb0328a03231363420/image"
   },
   {
     "CamId": "589b3f7db3bf7600110283c6",
@@ -6744,7 +7169,8 @@
     "Angle": 150,
     "Code": "TTH 47.4",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/72bf90f12c494b4742/image"
   },
   {
     "CamId": "68188c876dfb4b0018f9007b",
@@ -6769,7 +7195,8 @@
     "Lng": 106.675046682358,
     "Code": "TTH 265",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/ad27c64501cf2434a3/image"
   },
   {
     "CamId": "662b86551afb9c00172dd227",
@@ -6781,7 +7208,8 @@
     "Lng": 106.697469949722,
     "Code": "TTH 404",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/128be21c8af2183a35/image"
   },
   {
     "CamId": "662a88521afb9c00172d2592",
@@ -6793,7 +7221,8 @@
     "Lng": 106.607261896133,
     "Code": "TTH 310",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/8fc4d98d1d92a46124/image"
   },
   {
     "CamId": "649da77ea6068200171a6dd4",
@@ -6805,7 +7234,8 @@
     "Lng": 106.70676112175,
     "Code": "TTH 248",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/4ede52bfb0ef68e148/image"
   },
   {
     "CamId": "63b3c59fbfd3d90017e9ace8",
@@ -6817,7 +7247,8 @@
     "Lng": 106.577596664429,
     "Code": "TTH 207",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/7dec327f7b22530afe/image"
   },
   {
     "CamId": "58b5510817139d0010f35d4e",
@@ -6830,7 +7261,8 @@
     "Angle": 285,
     "Code": "TTH 21.15",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/c3c10eba0fc8ad7245/image"
   },
   {
     "CamId": "5a824c905058170011f6eab0",
@@ -6843,7 +7275,8 @@
     "Angle": 285,
     "Code": "TTH 104.3",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/65f24285268c57680b/image"
   },
   {
     "CamId": "5deb576d1dc17d7c5515ad16",
@@ -6855,7 +7288,8 @@
     "Lng": 106.695957,
     "Code": "ITS 8.4",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/be9f2d31309ff0bd7b/image"
   },
   {
     "CamId": "63ae7c73bfd3d90017e8f3ed",
@@ -6867,7 +7301,8 @@
     "Lng": 106.658003926277,
     "Code": "TTH 203.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/62bcad6bd4a3ae686e/image"
   },
   {
     "CamId": "586e1d4ef9fab7001111b0a2",
@@ -6880,7 +7315,8 @@
     "Angle": 270,
     "Code": "TTH 38.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/15aa0d9e8972ad2893/image"
   },
   {
     "CamId": "63195512c9eae60017a1c279",
@@ -6893,7 +7329,8 @@
     "Angle": 30,
     "Code": "TTH 178.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/a986728f63ed471ae7/image"
   },
   {
     "CamId": "59ca2ecb02eb490011a0a3f6",
@@ -6918,7 +7355,8 @@
     "Lng": 106.69704079628,
     "Code": "TTH 253",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/570bfcb082c055ec71/image"
   },
   {
     "CamId": "5d8cdc9d766c880017188970",
@@ -6931,7 +7369,8 @@
     "Angle": 75,
     "Code": "TTH 166",
     "CamType": "tth_axis",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/e767b82be15660846d/image"
   },
   {
     "CamId": "6792f1b78c5ed4001b27f4a9",
@@ -6956,7 +7395,8 @@
     "Angle": 255,
     "Code": "TTH 1.3",
     "CamType": "tth",
-    "VideoStreaming": true
+    "VideoStreaming": true,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/27dc7416b3661fcccf/image"
   },
   {
     "CamId": "595dc5ac3dcfc400106f2898",
@@ -6993,7 +7433,8 @@
     "Angle": 195,
     "Code": "TTH 108.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/4f02c85cc4d108bb83/image"
   },
   {
     "CamId": "63ae7c53bfd3d90017e8f3d8",
@@ -7005,7 +7446,8 @@
     "Lng": 106.658336520195,
     "Code": "TTH 203.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/8308109c5cbb6ab86a/image"
   },
   {
     "CamId": "5deb576d1dc17d7c5515ad20",
@@ -7017,7 +7459,8 @@
     "Lng": 106.666241,
     "Code": "ITS 10.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/b69d28ab6cf6c00dbb/image"
   },
   {
     "CamId": "5874796db807da0011e33cf7",
@@ -7030,7 +7473,8 @@
     "Angle": 345,
     "Code": "TTH 28.7",
     "CamType": "tth",
-    "VideoStreaming": true
+    "VideoStreaming": true,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/f8b49a0b5beff96d2e/image"
   },
   {
     "CamId": "5deb576d1dc17d7c5515acfa",
@@ -7042,7 +7486,8 @@
     "Lng": 106.681336,
     "Code": "ITS 2.1-2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/be71a184be4c229a1d/image"
   },
   {
     "CamId": "58746536b807da0011e33cdc",
@@ -7055,7 +7500,8 @@
     "Angle": 180,
     "Code": "TTH 21.12",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/dac07233325ad40947/image"
   },
   {
     "CamId": "5a8251575058170011f6eabc",
@@ -7080,7 +7526,8 @@
     "Lng": 106.635103225708,
     "Code": "TTH 338",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/758d32d0b27998a437/image"
   },
   {
     "CamId": "662b59291afb9c00172d912b",
@@ -7092,7 +7539,8 @@
     "Lng": 106.662569046021,
     "Code": "TTH 363",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/736acbf5dcefaa8094/image"
   },
   {
     "CamId": "5a6060a88576340017d0660d",
@@ -7105,7 +7553,8 @@
     "Angle": 315,
     "Code": "TTH 24.6",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/6fbdc8237e29af77a5/image"
   },
   {
     "CamId": "63b65f33bfd3d90017eaa405",
@@ -7129,7 +7578,8 @@
     "Lng": 106.702639,
     "Code": "ITS 9.5",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/688f26ab0ea5d4a353/image"
   },
   {
     "CamId": "5a6061868576340017d06611",
@@ -7141,7 +7591,8 @@
     "Lng": 106.596280932426,
     "Code": "TTH 21.82",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/1f2ea318bca3a57fd7/image"
   },
   {
     "CamId": "589b3705b3bf7600110283bd",
@@ -7154,7 +7605,8 @@
     "Angle": 330,
     "Code": "TTH 47.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/9884348c9aa91a4159/image"
   },
   {
     "CamId": "63ae7759bfd3d90017e8f162",
@@ -7166,7 +7618,8 @@
     "Lng": 106.706036925316,
     "Code": "TTH 187.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/dde8006bae56e99973/image"
   },
   {
     "CamId": "63ae7709bfd3d90017e8f135",
@@ -7178,7 +7631,8 @@
     "Lng": 106.703810691834,
     "Code": "TTH 186.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/7e70ffc4c67b1f5a20/image"
   },
   {
     "CamId": "662b55111afb9c00172d8e2e",
@@ -7190,7 +7644,8 @@
     "Lng": 106.640725135803,
     "Code": "TTH 353",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/f87114c98d77d9660d/image"
   },
   {
     "CamId": "649da419a6068200171a6c90",
@@ -7202,7 +7657,8 @@
     "Lng": 106.665605306625,
     "Code": "TTH 229",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/7b94dbdeb57af3dfcf/image"
   },
   {
     "CamId": "58afccadbd82540010390c3f",
@@ -7215,7 +7671,8 @@
     "Angle": 270,
     "Code": "TTH 21.40",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/4a75e593a380f7ac8b/image"
   },
   {
     "CamId": "662b82761afb9c00172dcda3",
@@ -7227,7 +7684,8 @@
     "Lng": 106.694144010544,
     "Code": "TTH 388",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/729bb49d2c6caaf4a2/image"
   },
   {
     "CamId": "5deb576d1dc17d7c5515acf7",
@@ -7251,7 +7709,8 @@
     "Lng": 106.71106338501,
     "Code": "TTH 169",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/b52659d7f9ddef8c39/image"
   },
   {
     "CamId": "5d8cd767766c880017188950",
@@ -7301,7 +7760,8 @@
     "Angle": 240,
     "Code": "TTH 21.79",
     "CamType": "tth",
-    "VideoStreaming": true
+    "VideoStreaming": true,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/312b44435f4a348593/image"
   },
   {
     "CamId": "68a5871d4e89b100173b5f37",
@@ -7326,7 +7786,8 @@
     "Angle": 330,
     "Code": "TTH 21.13",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/b11fab7b6c867ab6f0/image"
   },
   {
     "CamId": "6623e3566f998a001b25226d",
@@ -7338,7 +7799,8 @@
     "Lng": 106.680936813354,
     "Code": "TTH 256",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/895c4aa310d70c9e2b/image"
   },
   {
     "CamId": "5abbb6d698d8fc001102dfc8",
@@ -7350,7 +7812,8 @@
     "Lng": 106.720451116562,
     "Code": "TTH 249.1",
     "CamType": "tth",
-    "VideoStreaming": true
+    "VideoStreaming": true,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/42b70c84a01694728a/image"
   },
   {
     "CamId": "5d8cdd26766c880017188974",
@@ -7363,7 +7826,8 @@
     "Angle": 315,
     "Code": "TTH 168",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/8ef142e6aa834da790/image"
   },
   {
     "CamId": "56de42f611f398ec0c481296",
@@ -7376,7 +7840,8 @@
     "Angle": 75,
     "Code": "TTH 16.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/9f12d15eb711e7cbe5/image"
   },
   {
     "CamId": "5deb576d1dc17d7c5515ad03",
@@ -7388,7 +7853,8 @@
     "Lng": 106.692835092545,
     "Code": "ITS 3.5",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/5e91aa6b74ab0d9c77/image"
   },
   {
     "CamId": "63ae777cbfd3d90017e8f177",
@@ -7400,7 +7866,8 @@
     "Lng": 106.706455349922,
     "Code": "TTH 187.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/b2315515b9ae9cff3e/image"
   },
   {
     "CamId": "631828cac9eae60017a19f50",
@@ -7413,7 +7880,8 @@
     "Angle": 45,
     "Code": "TTH 177",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/cd2b6f00668479fdc6/image"
   },
   {
     "CamId": "63b3c2fbbfd3d90017e9abbf",
@@ -7426,7 +7894,8 @@
     "Angle": 240,
     "Code": "TTH 49.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/2a1eb1316a457ccac2/image"
   },
   {
     "CamId": "58d7c2e6c1e33c00112b321e",
@@ -7451,7 +7920,8 @@
     "Lng": 106.792543530464,
     "Code": "TTH 220.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/badf58bd292619fe0c/image"
   },
   {
     "CamId": "662b5b481afb9c00172d92a8",
@@ -7463,7 +7933,8 @@
     "Lng": 106.641937494278,
     "Code": "TTH 368",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/e239ab4ffec2d07a13/image"
   },
   {
     "CamId": "681885376dfb4b0018f8f0f2",
@@ -7488,7 +7959,8 @@
     "Angle": 135,
     "Code": "TTH 22.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/37d9b2748393086b5d/image"
   },
   {
     "CamId": "5d9dddb9766c880017188c96",
@@ -7501,7 +7973,8 @@
     "Angle": 45,
     "Code": "TTH 170",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/543e7ad7ca640c95cb/image"
   },
   {
     "CamId": "5d8cd372766c880017188940",
@@ -7527,7 +8000,8 @@
     "Angle": 255,
     "Code": "TTH 119.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/f5cba9e70cad3ad912/image"
   },
   {
     "CamId": "5a60839c8576340017d0667c",
@@ -7540,7 +8014,8 @@
     "Angle": 195,
     "Code": "IDICO-QL1 21",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/7894c1caa262ea95e7/image"
   },
   {
     "CamId": "68188c236dfb4b0018f8ff8f",
@@ -7564,7 +8039,8 @@
     "Lng": 106.711615920067,
     "Code": "TTH 234",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/b718a1a94fbe3febf8/image"
   },
   {
     "CamId": "58746371b807da0011e33cd1",
@@ -7577,7 +8053,8 @@
     "Angle": 285,
     "Code": "TTH 21.7",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/cf21b9798156a67e7b/image"
   },
   {
     "CamId": "63bd1e95bfd3d90017ec3cd5",
@@ -7589,7 +8066,8 @@
     "Lng": 106.731684207916,
     "Code": "TTH 244",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/da42f6a6a9e9816387/image"
   },
   {
     "CamId": "63ae7cd3bfd3d90017e8f408",
@@ -7601,7 +8079,8 @@
     "Lng": 106.64261341095,
     "Code": "TTH 204",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/1135f0746d0eba803f/image"
   },
   {
     "CamId": "5d8cd70e766c88001718894e",
@@ -7627,7 +8106,8 @@
     "Angle": 315,
     "Code": "TTH 42.5",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/bafc3354d0a433e294/image"
   },
   {
     "CamId": "595ddc123dcfc400106f28ba",
@@ -7653,7 +8133,8 @@
     "Angle": 270,
     "Code": "TTH 21.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/fcfb8f2622ea84585b/image"
   },
   {
     "CamId": "59d3524f02eb490011a0a61b",
@@ -7678,7 +8159,8 @@
     "Lng": 106.703596115112,
     "Code": "TTH 327",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/830e746a0d21ec4dab/image"
   },
   {
     "CamId": "63b55020bfd3d90017ea7cb7",
@@ -7690,7 +8172,8 @@
     "Lng": 106.77515745163,
     "Code": "TTH 231.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/ad0e8be2e81042be95/image"
   },
   {
     "CamId": "68ede746230ee50017d04dcc",
@@ -7728,7 +8211,8 @@
     "Lng": 106.664371490479,
     "Code": "TTH 285",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/8af969604ce6b2c002/image"
   },
   {
     "CamId": "662b4d781afb9c00172d8571",
@@ -7740,7 +8224,8 @@
     "Lng": 106.677567958832,
     "Code": "TTH 330",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/f4c111c55db7d3ed6f/image"
   },
   {
     "CamId": "5a606a958576340017d06621",
@@ -7753,7 +8238,8 @@
     "Angle": 45,
     "Code": "TTH 44.8",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/fc114d55c732a2cdb5/image"
   },
   {
     "CamId": "662a8c381afb9c00172d28b6",
@@ -7765,7 +8251,8 @@
     "Lng": 106.689584255218,
     "Code": "TTH 318",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/29769473ddd714e0ee/image"
   },
   {
     "CamId": "63b6617ebfd3d90017eaa50b",
@@ -7777,7 +8264,8 @@
     "Lng": 106.713917255402,
     "Code": "TTH 242.3",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/72c4968964863b05d0/image"
   },
   {
     "CamId": "595f91653dcfc400106f28f6",
@@ -7803,7 +8291,8 @@
     "Angle": 180,
     "Code": "TTH 21.39",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/8608f9f7cf3b3f569a/image"
   },
   {
     "CamId": "56de42f611f398ec0c481292",
@@ -7816,7 +8305,8 @@
     "Angle": 75,
     "Code": "TTH 17.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/2850a0087453905836/image"
   },
   {
     "CamId": "681888066dfb4b0018f8f4c2",
@@ -7840,7 +8330,8 @@
     "Lng": 106.687554,
     "Code": "ITS 3.3",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/1d145fad69a6d3f6a1/image"
   },
   {
     "CamId": "662b58791afb9c00172d9107",
@@ -7852,7 +8343,8 @@
     "Lng": 106.664301753044,
     "Code": "TTH 361",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/bb426a4de4b16bcfac/image"
   },
   {
     "CamId": "662b811d1afb9c00172dcc1d",
@@ -7864,7 +8356,8 @@
     "Lng": 106.692867279053,
     "Code": "TTH 384",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/6486af0fe00df5e14b/image"
   },
   {
     "CamId": "662a8eb41afb9c00172d2aba",
@@ -7876,7 +8369,8 @@
     "Lng": 106.721824407578,
     "Code": "TTH 324.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/341d26e1c16084ce50/image"
   },
   {
     "CamId": "63b548ecbfd3d90017ea77d2",
@@ -7900,7 +8394,8 @@
     "Lng": 106.684262752533,
     "Code": "ITS 2.6",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/a294ca3c4f73c3fae8/image"
   },
   {
     "CamId": "56de42f611f398ec0c48127d",
@@ -7913,7 +8408,8 @@
     "Angle": 45,
     "Code": "TTH 1.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/8616f0892ee88c2276/image"
   },
   {
     "CamId": "56de42f611f398ec0c48128d",
@@ -7926,7 +8422,8 @@
     "Angle": 195,
     "Code": "TTH 2a",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/08e07f6db568a232b9/image"
   },
   {
     "CamId": "6792f03d8c5ed4001b27f378",
@@ -7963,7 +8460,8 @@
     "Lng": 106.671495437622,
     "Code": "TTH 267",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/740810ca22ed2eb118/image"
   },
   {
     "CamId": "59ca2cac02eb490011a0a3e9",
@@ -8002,7 +8500,8 @@
     "Angle": 15,
     "Code": "TTH 157",
     "CamType": "tth_axis",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/27a6335301c10327a5/image"
   },
   {
     "CamId": "586e25e1f9fab7001111b0ae",
@@ -8015,7 +8514,8 @@
     "Angle": 285,
     "Code": "TTH 28.4",
     "CamType": "tth",
-    "VideoStreaming": true
+    "VideoStreaming": true,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/6d5f99c0cd8e90191a/image"
   },
   {
     "CamId": "681889ec6dfb4b0018f8f6cb",
@@ -8066,7 +8566,8 @@
     "Angle": 60,
     "Code": "TTH 174",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/58018db3a6873927fb/image"
   },
   {
     "CamId": "681883866dfb4b0018f8eef6",
@@ -8090,7 +8591,8 @@
     "Lng": 106.698489189148,
     "Code": "TTH 185",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/44efefa8a7b4984522/image"
   },
   {
     "CamId": "5deb576d1dc17d7c5515ad14",
@@ -8103,7 +8605,8 @@
     "Angle": 45,
     "Code": "ITS 7.53",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/0a5a42846420bd55f8/image"
   },
   {
     "CamId": "63b66035bfd3d90017eaa48e",
@@ -8115,7 +8618,8 @@
     "Lng": 106.695023775101,
     "Code": "TTH 239",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/ac5680f78ec36911b4/image"
   },
   {
     "CamId": "585b284ac3f96200127dc500",
@@ -8128,7 +8632,8 @@
     "Angle": 255,
     "Code": "TTH 37.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/ea6aeb4d9ddf859221/image"
   },
   {
     "CamId": "56de42f611f398ec0c481295",
@@ -8140,7 +8645,8 @@
     "Lng": 106.659994125366,
     "Code": "TTH 15.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/077f9df68e65c5130a/image"
   },
   {
     "CamId": "5deb576d1dc17d7c5515ad04",
@@ -8152,7 +8658,8 @@
     "Lng": 106.690008044243,
     "Code": "ITS 3.51",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/a94ded2ee2b1a8ab69/image"
   },
   {
     "CamId": "5a8278f35058170011f6eaed",
@@ -8165,7 +8672,8 @@
     "Angle": 105,
     "Code": "TTH 122.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/89877177549464d1ee/image"
   },
   {
     "CamId": "662b830e1afb9c00172dcf50",
@@ -8177,7 +8685,8 @@
     "Lng": 106.688017845154,
     "Code": "TTH 391",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/dd0047015614a08e1c/image"
   },
   {
     "CamId": "5a6084208576340017d0667e",
@@ -8202,7 +8711,8 @@
     "Lng": 106.791937351227,
     "Code": "TTH 220.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/ad20bb28bbc5c8286a/image"
   },
   {
     "CamId": "5a825ab55058170011f6ead2",
@@ -8214,7 +8724,8 @@
     "Lng": 106.700313091278,
     "Code": "TTH 117.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/a3900cfa3f5630b61e/image"
   },
   {
     "CamId": "586e20a0f9fab7001111b0a7",
@@ -8240,7 +8751,8 @@
     "Angle": 300,
     "Code": "TTH 126.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/1a68e18db8f3388636/image"
   },
   {
     "CamId": "6623edd26f998a001b2526f7",
@@ -8252,7 +8764,8 @@
     "Lng": 106.679542064667,
     "Code": "TTH 282.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/f03dff8b574a1e2d00/image"
   },
   {
     "CamId": "5a8255a55058170011f6eac7",
@@ -8265,7 +8778,8 @@
     "Angle": 60,
     "Code": "TTH 109.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/527bab41a09b75f65f/image"
   },
   {
     "CamId": "56de42f611f398ec0c481294",
@@ -8291,7 +8805,8 @@
     "Angle": 180,
     "Code": "TTH 2.2",
     "CamType": "tth",
-    "VideoStreaming": true
+    "VideoStreaming": true,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/3869cfc476c4fc7012/image"
   },
   {
     "CamId": "587ed91db807da0011e33d4e",
@@ -8304,7 +8819,8 @@
     "Angle": 270,
     "Code": "TTH 44.5",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/53bbb1ef36909852d3/image"
   },
   {
     "CamId": "63b54dcbbfd3d90017ea7ba8",
@@ -8316,7 +8832,8 @@
     "Lng": 106.793847084045,
     "Code": "TTH 228",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/315dfc9e8eb11c1b52/image"
   },
   {
     "CamId": "56de42f611f398ec0c48128a",
@@ -8329,7 +8846,8 @@
     "Angle": 60,
     "Code": "TTH 8.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/07e9ade25d283e728f/image"
   },
   {
     "CamId": "6623ed9b6f998a001b2526cd",
@@ -8341,7 +8859,8 @@
     "Lng": 106.680099964142,
     "Code": "TTH 282.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/589003ed03528ee919/image"
   },
   {
     "CamId": "58b5752e17139d0010f35d5f",
@@ -8354,7 +8873,8 @@
     "Angle": 315,
     "Code": "TTH 35.7",
     "CamType": "tth_axis",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/ba156ee239fd4c1ac1/image"
   },
   {
     "CamId": "58175c81edeb6c0012a2d5c2",
@@ -8367,7 +8887,8 @@
     "Angle": 45,
     "Code": "TTH 4.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/acd072b93f8bec228b/image"
   },
   {
     "CamId": "631812e6c9eae60017a19567",
@@ -8380,7 +8901,8 @@
     "Angle": 270,
     "Code": "TTH 49.11",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/8b264146307e721763/image"
   },
   {
     "CamId": "6623e7b76f998a001b25242d",
@@ -8392,7 +8914,8 @@
     "Lng": 106.709260940552,
     "Code": "TTH 269",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/2cc9c6587b19c89285/image"
   },
   {
     "CamId": "5ad068b198d8fc001102e278",
@@ -8417,7 +8940,8 @@
     "Lng": 106.662740707397,
     "Code": "TTH 334.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/cfc3c8c20d16ad8f57/image"
   },
   {
     "CamId": "63ae75a3bfd3d90017e8f051",
@@ -8429,7 +8953,8 @@
     "Lng": 106.685453653336,
     "Code": "TTH 180.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/84204e447057ddb5ba/image"
   },
   {
     "CamId": "662b7d8a1afb9c00172dc71f",
@@ -8441,7 +8966,8 @@
     "Lng": 106.695914268494,
     "Code": "TTH 376",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/187ed59620452c8e03/image"
   },
   {
     "CamId": "5abbb77298d8fc001102dfce",
@@ -8453,7 +8979,8 @@
     "Lng": 106.720327734947,
     "Code": "TTH 249.2",
     "CamType": "tth",
-    "VideoStreaming": true
+    "VideoStreaming": true,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/42b70c84a01694728a/image"
   },
   {
     "CamId": "63bd1f48bfd3d90017ec3d19",
@@ -8465,7 +8992,8 @@
     "Lng": 106.730353832245,
     "Code": "TTH 246",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/acffcc5c271b930565/image"
   },
   {
     "CamId": "58aff2c6bd82540010390c55",
@@ -8478,7 +9006,8 @@
     "Angle": 150,
     "Code": "TTH 21.45",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/1753181d4616a376ee/image"
   },
   {
     "CamId": "5b25a1dcf13cba001124e710",
@@ -8504,7 +9033,8 @@
     "Angle": 240,
     "Code": "TTH 153",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/b074bd628c406afa26/image"
   },
   {
     "CamId": "5deb576d1dc17d7c5515ad18",
@@ -8516,7 +9046,8 @@
     "Lng": 106.699614,
     "Code": "ITS 8.6",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/5c92ff788241088233/image"
   },
   {
     "CamId": "66b1c1bf779f740018673ef2",
@@ -8528,7 +9059,8 @@
     "Lng": 106.674488782883,
     "Code": "TTH 411",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/604eeeb8e8a56e39e8/image"
   },
   {
     "CamId": "56de42f611f398ec0c4812a0",
@@ -8541,7 +9073,8 @@
     "Angle": 300,
     "Code": "TTH 22.5",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/dca90654fed1416bdd/image"
   },
   {
     "CamId": "6623efc26f998a001b25277f",
@@ -8553,7 +9086,8 @@
     "Lng": 106.615512371063,
     "Code": "TTH 288",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/71923a4d619f119397/image"
   },
   {
     "CamId": "662b50841afb9c00172d880d",
@@ -8565,7 +9099,8 @@
     "Lng": 106.660562753677,
     "Code": "TTH 342",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/456436cef506be1503/image"
   },
   {
     "CamId": "58abc0cbbd82540010390ba6",
@@ -8578,7 +9113,8 @@
     "Angle": 0,
     "Code": "TTH 49.3",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/dcf5e38be6b12958c3/image"
   },
   {
     "CamId": "58afea5dbd82540010390c4d",
@@ -8591,7 +9127,8 @@
     "Angle": 165,
     "Code": "TTH 21.43",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/e015d4512380be0a31/image"
   },
   {
     "CamId": "5deb576d1dc17d7c5515ad07",
@@ -8603,7 +9140,8 @@
     "Lng": 106.672665,
     "Code": "ITS 5.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/5dd154f0e438196979/image"
   },
   {
     "CamId": "5d8cdc1d766c88001718896c",
@@ -8616,7 +9154,8 @@
     "Angle": 15,
     "Code": "TTH 164",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/3c8cbe9ce1231b3805/image"
   },
   {
     "CamId": "5a606c758576340017d06626",
@@ -8629,7 +9168,8 @@
     "Angle": 90,
     "Code": "TTH 44.9",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/1acd254b59135bd195/image"
   },
   {
     "CamId": "68fae2966b936b00172186a6",
@@ -8667,7 +9207,8 @@
     "Angle": 225,
     "Code": "IDICO-QL1 03",
     "CamType": "tth",
-    "VideoStreaming": true
+    "VideoStreaming": true,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/4614613522851235c6/image"
   },
   {
     "CamId": "5a82628e5058170011f6eadb",
@@ -8680,7 +9221,8 @@
     "Angle": 75,
     "Code": "TTH 121.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/641c6430b35c65c6b8/image"
   },
   {
     "CamId": "589b46b3b3bf7600110283d0",
@@ -8705,7 +9247,8 @@
     "Lng": 106.751575469971,
     "Code": "TTH 0007",
     "CamType": "tth",
-    "VideoStreaming": true
+    "VideoStreaming": true,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/d61455ad04311d1bb6/image"
   },
   {
     "CamId": "5d8cd653766c88001718894c",
@@ -8718,7 +9261,8 @@
     "Angle": 345,
     "Code": "TTH 148",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/aae83d3acde5376e7a/image"
   },
   {
     "CamId": "662b4de41afb9c00172d85c5",
@@ -8730,7 +9274,8 @@
     "Lng": 106.658996343613,
     "Code": "TTH 331",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/b1876554760dbcdf76/image"
   },
   {
     "CamId": "58af8eb2bd82540010390c30",
@@ -8743,7 +9288,8 @@
     "Angle": 210,
     "Code": "TTH 35.6",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/5a0b362e2a3c5de7f3/image"
   },
   {
     "CamId": "6623ee176f998a001b25270c",
@@ -8755,7 +9301,8 @@
     "Lng": 106.6819024086,
     "Code": "TTH 283",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/392dced4ceb3bcefd7/image"
   },
   {
     "CamId": "58746314b807da0011e33cce",
@@ -8768,7 +9315,8 @@
     "Angle": 105,
     "Code": "TTH 21.6",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/36058e3eda1eddebcf/image"
   },
   {
     "CamId": "595f8d233dcfc400106f28f0",
@@ -8780,7 +9328,8 @@
     "Lng": 106.632506847382,
     "Code": "TTH 21.78",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/312b44435f4a348593/image"
   },
   {
     "CamId": "59d34ce302eb490011a0a616",
@@ -8793,7 +9342,8 @@
     "Angle": 165,
     "Code": "TTH 33.7",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/2090e688a0a0f023bf/image"
   },
   {
     "CamId": "662a8e641afb9c00172d2a7e",
@@ -8805,7 +9355,8 @@
     "Lng": 106.721234321594,
     "Code": "TTH 324.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/cc5f26fb241be2421c/image"
   },
   {
     "CamId": "5deb576d1dc17d7c5515ad1d",
@@ -8817,7 +9368,8 @@
     "Lng": 106.699846386909,
     "Code": "ITS 9.4",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/56ac093863dc29b0d5/image"
   },
   {
     "CamId": "63ae7c12bfd3d90017e8f3c0",
@@ -8829,7 +9381,8 @@
     "Lng": 106.656598448753,
     "Code": "TTH 201.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/3d020e10e5d524a7dc/image"
   },
   {
     "CamId": "68ae7e997d735d00173c7445",
@@ -8867,7 +9420,8 @@
     "Angle": 135,
     "Code": "TTH 135.1",
     "CamType": "generic",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/6e7b1b96f737e28e7d/image"
   },
   {
     "CamId": "662b82da1afb9c00172dce94",
@@ -8879,7 +9433,8 @@
     "Lng": 106.690120697021,
     "Code": "TTH 390",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/33191213def4e413dd/image"
   },
   {
     "CamId": "5d8cd2a3766c88001718893c",
@@ -8892,7 +9447,8 @@
     "Angle": 255,
     "Code": "TTH 140",
     "CamType": "tth_axis",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/323a995296439fa910/image"
   },
   {
     "CamId": "662b4e8e1afb9c00172d865c",
@@ -8904,7 +9460,8 @@
     "Lng": 106.661485433578,
     "Code": "TTH 334",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/b9835740b9a79682bf/image"
   },
   {
     "CamId": "66b1c190779f740018673ed4",
@@ -8916,7 +9473,8 @@
     "Lng": 106.67188167572,
     "Code": "TTH 410",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/e104d6d0b13a71516a/image"
   },
   {
     "CamId": "662b7f9f1afb9c00172dca50",
@@ -8928,7 +9486,8 @@
     "Lng": 106.701471805573,
     "Code": "TTH 379",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/5b39313e164c9444a6/image"
   },
   {
     "CamId": "68a589294e89b100173b61d9",
@@ -8953,7 +9512,8 @@
     "Angle": 210,
     "Code": "TTH 28.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/23a842be6d1292a7ae/image"
   },
   {
     "CamId": "63ae7af4bfd3d90017e8f32c",
@@ -8965,7 +9525,8 @@
     "Lng": 106.659564971924,
     "Code": "TTH 200.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/5269a6d27be2e63ada/image"
   },
   {
     "CamId": "5875d4f8b807da0011e33d1a",
@@ -8977,7 +9538,8 @@
     "Lng": 106.670937538147,
     "Code": "TTH 42.4",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/d3ac1604d10186fde5/image"
   },
   {
     "CamId": "595d92013dcfc400106f2877",
@@ -8990,7 +9552,8 @@
     "Angle": 60,
     "Code": "TTH 21.50",
     "CamType": "tth",
-    "VideoStreaming": true
+    "VideoStreaming": true,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/6ff9858dd650ddcf7e/image"
   },
   {
     "CamId": "583f976361cfea0012cf68f9",
@@ -9003,7 +9566,8 @@
     "Angle": 300,
     "Code": "TTH 22.8",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/130f6b6493cebd6b4b/image"
   },
   {
     "CamId": "681886f26dfb4b0018f8f31a",
@@ -9015,7 +9579,8 @@
     "Lng": 106.514682769775,
     "Code": "TTH 433",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/947c35273727533d71/image"
   },
   {
     "CamId": "662b80721afb9c00172dcb28",
@@ -9027,7 +9592,8 @@
     "Lng": 106.69774889946,
     "Code": "TTH 381",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/efb5a57d60ffdb0f3e/image"
   },
   {
     "CamId": "59ca2f4402eb490011a0a3f9",
@@ -9053,7 +9619,8 @@
     "Angle": 345,
     "Code": "TTH 38.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/cc8b0f6d68593382df/image"
   },
   {
     "CamId": "681891e26dfb4b0018f90a69",
@@ -9066,7 +9633,8 @@
     "Angle": 180,
     "Code": "TTH 458",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/82409fe329db7381d5/image"
   },
   {
     "CamId": "63b65f8dbfd3d90017eaa434",
@@ -9078,7 +9646,8 @@
     "Lng": 106.707404851913,
     "Code": "TTH 235",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/eb9b7648597ea8431a/image"
   },
   {
     "CamId": "5d9de3c2766c880017188cb3",
@@ -9091,7 +9660,8 @@
     "Angle": 270,
     "Code": "TTH 1.5",
     "CamType": "tth",
-    "VideoStreaming": true
+    "VideoStreaming": true,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/5229abab3abcc34f3c/image"
   },
   {
     "CamId": "63ae7cfcbfd3d90017e8f422",
@@ -9103,7 +9673,8 @@
     "Lng": 106.660680770874,
     "Code": "TTH 205",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/a31f6f7078a8b21c03/image"
   },
   {
     "CamId": "5b0e1faacddcc80011ceb449",
@@ -9116,7 +9687,8 @@
     "Angle": 60,
     "Code": "TTH 175.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/956184ea51ab4faa60/image"
   },
   {
     "CamId": "63b65fa9bfd3d90017eaa449",
@@ -9140,7 +9712,8 @@
     "Lng": 106.709175109863,
     "Code": "TTH 270",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/e3161103980101a554/image"
   },
   {
     "CamId": "6623e5066f998a001b252317",
@@ -9152,7 +9725,8 @@
     "Lng": 106.687191724777,
     "Code": "TTH 261",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/60142cdf9629a68181/image"
   },
   {
     "CamId": "662b5c141afb9c00172d93d7",
@@ -9164,7 +9738,8 @@
     "Lng": 106.613742113113,
     "Code": "TTH 372",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/79fddbf0e652586e4e/image"
   },
   {
     "CamId": "66b1c158779f740018673eb4",
@@ -9176,7 +9751,8 @@
     "Lng": 106.676441431046,
     "Code": "TTH 409",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/656955e566bf8f4ab8/image"
   },
   {
     "CamId": "56df8381c062921100c143e2",
@@ -9189,7 +9765,8 @@
     "Angle": 195,
     "Code": "TTH 25.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/87443f6852c8879927/image"
   },
   {
     "CamId": "5d8cd1f9766c880017188938",
@@ -9214,7 +9791,8 @@
     "Lng": 106.678587198257,
     "Code": "TTH 264",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/0b029dca3fb3303735/image"
   },
   {
     "CamId": "595da2dd3dcfc400106f2885",
@@ -9227,7 +9805,8 @@
     "Angle": 270,
     "Code": "TTH 21.56",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/ec4f0ee3a2a9ac7a1b/image"
   },
   {
     "CamId": "6623f1996f998a001b252805",
@@ -9239,7 +9818,8 @@
     "Lng": 106.756038665771,
     "Code": "TTH 294",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/721259eb75ace24b85/image"
   },
   {
     "CamId": "595f80e83dcfc400106f28e4",
@@ -9264,7 +9844,8 @@
     "Lng": 106.674596,
     "Code": "ITS 1.3-2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/2d0c88ada84a4dcdb5/image"
   },
   {
     "CamId": "631955e7c9eae60017a1c30a",
@@ -9277,7 +9858,8 @@
     "Angle": 300,
     "Code": "TTH 179",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/0694b5f09310179355/image"
   },
   {
     "CamId": "5a6060e08576340017d0660f",
@@ -9289,7 +9871,8 @@
     "Lng": 106.689149737358,
     "Code": "TTH 24.7",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/4fb4acb76d3236bda9/image"
   },
   {
     "CamId": "5a607ea98576340017d0666d",
@@ -9314,7 +9897,8 @@
     "Lng": 106.672922372818,
     "Code": "TTH 196.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/1c764e81846c5478a1/image"
   },
   {
     "CamId": "63b548c3bfd3d90017ea77c0",
@@ -9326,7 +9910,8 @@
     "Lng": 106.806946992874,
     "Code": "TTH 210",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/6b6026ba445c8dbc2b/image"
   },
   {
     "CamId": "662a8c931afb9c00172d2901",
@@ -9338,7 +9923,8 @@
     "Lng": 106.736941337585,
     "Code": "TTH 319",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/d7d99695dd479bde58/image"
   },
   {
     "CamId": "63195556c9eae60017a1c2ba",
@@ -9351,7 +9937,8 @@
     "Angle": 120,
     "Code": "TTH 178.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/ddf672b8f78de2715c/image"
   },
   {
     "CamId": "58df4adedc195800111e04b4",
@@ -9364,7 +9951,8 @@
     "Angle": 225,
     "Code": "TTH 26.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/a37fff3566c2a22b07/image"
   },
   {
     "CamId": "59ca301902eb490011a0a400",
@@ -9377,7 +9965,8 @@
     "Angle": 15,
     "Code": "IDICO-QL1 20",
     "CamType": "tth",
-    "VideoStreaming": true
+    "VideoStreaming": true,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/d5ed79ad4321f41574/image"
   },
   {
     "CamId": "584e738361cfea0012cf6951",
@@ -9390,7 +9979,8 @@
     "Angle": 30,
     "Code": "TTH 21.38",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/ddc52f5f0e9d22ea98/image"
   },
   {
     "CamId": "583f958161cfea0012cf68f5",
@@ -9403,7 +9993,8 @@
     "Angle": 300,
     "Code": "TTH 22.6",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/2f39d13110062fe3ee/image"
   },
   {
     "CamId": "6922921744912200174bc71d",
@@ -9427,7 +10018,8 @@
     "Lng": 106.710022687912,
     "Code": "TTH 107.1",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/786511b2540412ca8b/image"
   },
   {
     "CamId": "5deb576d1dc17d7c5515ad0f",
@@ -9439,7 +10031,8 @@
     "Lng": 106.691731,
     "Code": "ITS 7.4",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/e8efdbac2cc7ba6797/image"
   },
   {
     "CamId": "68fae2b66b936b00172186e5",
@@ -9464,7 +10057,8 @@
     "Lng": 106.610062122345,
     "Code": "TTH 346",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/f84c53195b06134c65/image"
   },
   {
     "CamId": "68a5873d4e89b100173b5f60",
@@ -9488,7 +10082,8 @@
     "Lng": 106.663513183594,
     "Code": "TTH 415",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/592a59cf45be899c67/image"
   },
   {
     "CamId": "6623ec376f998a001b252671",
@@ -9500,7 +10095,8 @@
     "Lng": 106.635167598724,
     "Code": "TTH 278",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/fee9fc279a6ab2eb07/image"
   },
   {
     "CamId": "59ca2e6002eb490011a0a3f3",
@@ -9526,7 +10122,8 @@
     "Angle": 90,
     "Code": "TTH 171",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/5a04e6df95d6115348/image"
   },
   {
     "CamId": "5b6c1618ca0577001163fe3c",
@@ -9552,7 +10149,8 @@
     "Angle": 30,
     "Code": "TTH 33.4",
     "CamType": "tth",
-    "VideoStreaming": true
+    "VideoStreaming": true,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/dfdb4e782b6aa125dd/image"
   },
   {
     "CamId": "5deb576d1dc17d7c5515ad22",
@@ -9564,7 +10162,8 @@
     "Lng": 106.669124,
     "Code": "ITS 10.2-2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/991e912f5006c7a571/image"
   },
   {
     "CamId": "63b664d2bfd3d90017eaaa0f",
@@ -9614,7 +10213,8 @@
     "Lng": 106.698939800262,
     "Code": "TTH 398",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/8d49e3fe596e9cdf8c/image"
   },
   {
     "CamId": "58d7b5a7c1e33c00112b320a",
@@ -9627,7 +10227,8 @@
     "Angle": 285,
     "Code": "TTH 21.48",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/e56da14090f27ede70/image"
   },
   {
     "CamId": "662a8f3a1afb9c00172d2b31",
@@ -9639,7 +10240,8 @@
     "Lng": 106.701600551605,
     "Code": "TTH 326",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/76b4084a5058918f64/image"
   },
   {
     "CamId": "58aff01fbd82540010390c50",
@@ -9652,7 +10254,8 @@
     "Angle": 45,
     "Code": "TTH 21.44",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/e015d4512380be0a31/image"
   },
   {
     "CamId": "5d8cdb9f766c880017188968",
@@ -9664,7 +10267,8 @@
     "Lng": 106.677471399307,
     "Code": "TTH 162",
     "CamType": "tth_axis",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/fd117ad8888abdfc17/image"
   },
   {
     "CamId": "5a6085fb8576340017d06686",
@@ -9677,7 +10281,8 @@
     "Angle": 330,
     "Code": "IDICO-QL1 28",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/efbf6472019acab034/image"
   },
   {
     "CamId": "5a8253bc5058170011f6eac1",
@@ -9690,7 +10295,8 @@
     "Angle": 90,
     "Code": "TTH 107.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/ac3bfafb93a7450f26/image"
   },
   {
     "CamId": "59ca31d602eb490011a0a40b",
@@ -9703,7 +10309,8 @@
     "Angle": 345,
     "Code": "IDICO-QL1 33",
     "CamType": "tth",
-    "VideoStreaming": true
+    "VideoStreaming": true,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/b5439642bdc5956fee/image"
   },
   {
     "CamId": "587c782db807da0011e33d3b",
@@ -9716,7 +10323,8 @@
     "Angle": 270,
     "Code": "TTH 33.3",
     "CamType": "tth",
-    "VideoStreaming": true
+    "VideoStreaming": true,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/70630c5244f7954723/image"
   },
   {
     "CamId": "662a8d821afb9c00172d29c8",
@@ -9728,7 +10336,8 @@
     "Lng": 106.718316078186,
     "Code": "TTH 322",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/16d91056d36d48b4ac/image"
   },
   {
     "CamId": "63ae7d29bfd3d90017e8f437",
@@ -9740,7 +10349,8 @@
     "Lng": 106.656131744385,
     "Code": "TTH 206",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/8636b7e5622c1d2657/image"
   },
   {
     "CamId": "68ae7ee47d735d00173c7492",
@@ -9766,7 +10376,8 @@
     "Angle": 240,
     "Code": "TTH 22.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/e937c5a6c3aad3ec90/image"
   },
   {
     "CamId": "68188b296dfb4b0018f8f9a3",
@@ -9791,7 +10402,8 @@
     "Lng": 106.693022847176,
     "Code": "TTH 382",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/e31dfbe01cb8fe12cf/image"
   },
   {
     "CamId": "692292c044912200174bc76d",
@@ -9828,7 +10440,8 @@
     "Lng": 106.666474342346,
     "Code": "ITS 9.51",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/1e39512c8932dcd0ea/image"
   },
   {
     "CamId": "662b50261afb9c00172d87b2",
@@ -9840,7 +10453,8 @@
     "Lng": 106.688178777695,
     "Code": "TTH 340",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/10aef26820121e5778/image"
   },
   {
     "CamId": "59ca2d9d02eb490011a0a3f0",
@@ -9878,7 +10492,8 @@
     "Angle": 195,
     "Code": "TTH 110",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/102713a9073311c170/image"
   },
   {
     "CamId": "5deb576d1dc17d7c5515acfc",
@@ -9890,7 +10505,8 @@
     "Lng": 106.68729364872,
     "Code": "ITS 2.5",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/2ca47670bb0c8259dc/image"
   },
   {
     "CamId": "587c8c20b807da0011e33d47",
@@ -9903,7 +10519,8 @@
     "Angle": 345,
     "Code": "TTH 34.3",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/b9b6e06967f7682fd6/image"
   },
   {
     "CamId": "58744fb0b807da0011e33cc0",
@@ -9916,7 +10533,8 @@
     "Angle": 225,
     "Code": "TTH 43.2",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/86774b55235c0a77b5/image"
   },
   {
     "CamId": "5822f23aedeb6c0012a2d6a8",
@@ -9929,7 +10547,8 @@
     "Angle": 165,
     "Code": "TTH 3a",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/acf95805994bb4bcb3/image"
   },
   {
     "CamId": "649da495a6068200171a6cb6",
@@ -9941,7 +10560,8 @@
     "Lng": 106.740009784698,
     "Code": "TTH 230.3",
     "CamType": "tth",
-    "VideoStreaming": false
+    "VideoStreaming": false,
+    "FallbackSnapshotUrl": "https://argosatlas.com/api/cam/2df17f8cd5435aacef/image"
   },
   {
     "CamId": "63ae78ccbfd3d90017e8f1f9",

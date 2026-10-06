@@ -5,15 +5,18 @@ import styles from './FullscreenView.module.css'
 
 export default function FullscreenView({ camera, isOpen, onClose }) {
   const [imgSrc, setImgSrc] = useState('')
+  const [usingFallback, setUsingFallback] = useState(false)
 
   useEffect(() => {
     if (camera && isOpen) {
+      setUsingFallback(false)
       setImgSrc(addTimestampToUrl(getCameraImageUrl(camera.SnapshotUrl)))
     }
   }, [camera, isOpen])
 
   const refresh = useCallback(() => {
     if (camera) {
+      setUsingFallback(false)
       setImgSrc(addTimestampToUrl(getCameraImageUrl(camera.SnapshotUrl)))
     }
   }, [camera])
@@ -35,7 +38,17 @@ export default function FullscreenView({ camera, isOpen, onClose }) {
       headerActions={headerActions}
     >
       <div className={styles.container}>
-        <img src={imgSrc} alt={camera.CamName} referrerPolicy="no-referrer" />
+        <img
+          src={imgSrc}
+          alt={camera.CamName}
+          referrerPolicy="no-referrer"
+          onError={() => {
+            if (camera.FallbackSnapshotUrl && !usingFallback) {
+              setUsingFallback(true)
+              setImgSrc(addTimestampToUrl(camera.FallbackSnapshotUrl))
+            }
+          }}
+        />
       </div>
     </Modal>
   )
