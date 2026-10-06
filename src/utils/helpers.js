@@ -21,9 +21,24 @@ export function addTimestampToUrl(url) {
 
 export function getCameraImageUrl(url) {
   if (!url) return ''
-  const imageUrl = new URL(url)
-  if (window.location.protocol === 'https:' && imageUrl.protocol === 'http:') {
-    imageUrl.protocol = 'https:'
+
+  try {
+    const imageUrl = new URL(url)
+
+    if (imageUrl.hostname === 'giaothong.hochiminhcity.gov.vn' && imageUrl.port === '8007') {
+      return `/camera-image/hcmc${imageUrl.pathname}${imageUrl.search}`
+    }
+
+    if (imageUrl.hostname === 'camera.thongtingiaothong.vn') {
+      return `/camera-image/legacy${imageUrl.pathname}${imageUrl.search}`
+    }
+
+    if (window.location.protocol === 'https:' && imageUrl.protocol === 'http:') {
+      imageUrl.protocol = 'https:'
+    }
+
+    return imageUrl.toString()
+  } catch {
+    return url
   }
-  return imageUrl.toString()
 }
